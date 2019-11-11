@@ -8,7 +8,7 @@
 
 @snap[east span-50 text-center fragment font-montserrat text-white text-14]
 @box[](This talk IS for you if you are:)
-@ol
+@ol[text-08]
 - flying sUAS 
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
@@ -17,7 +17,7 @@
 
 @snap[west span-50 text-center fragment font-montserrat text-white text-14]
 @box[](If this talk is NOT for you:)
-@ol
+@ol[text-08]
 - pretend you know this stuff already
 - intimidate the others by nodding thoughtfully
 - count memes, quiz at the end
