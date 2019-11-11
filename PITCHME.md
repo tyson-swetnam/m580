@@ -5,7 +5,7 @@
 @snapend
 
 
----?video=https://youtu.be/1aK9BHkO3TA
+---?video=https://www.youtube.com/watch?v=1aK9BHkO3TA
 
 @ol
 
@@ -56,7 +56,7 @@
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
----?color=linear-gradient(80deg, white 50%, #567AD2 50%)
+---?image=assets/imagery/metashape_hpc.jpeg
 
 
 
