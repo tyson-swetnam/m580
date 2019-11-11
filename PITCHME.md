@@ -5,20 +5,20 @@
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
-@snap[north span-100 text-center font-montserrat text-white text-14]
-@fa[quote-graphql](Why do I need to process my sUAS data on the HPC?)
+
+@snap[east span-40 text-center font-montserrat text-white text-14]
+@fa[quote-left quote-graphql](Why do I need to process my sUAS data on the HPC?)
 @snapend
 
 @snap[north-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Reason 1. Time is our most valuable resource # Have you ever done an SfM-MVS reconstruction of 1,000+ 20 megapixel images?)
+@box[](Reason 1. Time is our most valuable resource # Have you ever done an SfM-MVS reconstruction of 10,000+ 20 megapixel images?)
 @snapend
 
 @snap[west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Reason 2. Memory Limitations # See above )
 @snapend
 
-
-@box[](Reason 3. # )
+@box[](Reason 3. Space Limitations # See above )
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
@@ -28,11 +28,11 @@
 @snapend
 
 @snap[north-east fragment span-40 text-08 font-montserrat]
-@box[](# *Narrator Voice : "It was not easy*")
+@fa[](## *Narrator Voice : "It was not easy...*")
 @snapend
 
 @snap[south-east fragment span-40 text-08 font-montserrat]
-@box[](# *Narrator Voice : "but it is free for you to use"*)
+@fa[](## *Narrator Voice : "but it is free"*)
 @snapend
 
 @snap[north-west span-40 text-08 fragment font-montserrat text-blue]
@@ -48,8 +48,6 @@
 @box[](Task 4. # Request some worker nodes and go!)
 <img src="http://giphygifs.s3.amazonaws.com/media/HjeIqm3MxURFK/giphy.gif" height="200">
 @snapend
-
-
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
