@@ -18,7 +18,8 @@
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-montserrat text-white text-14]
-@fa[quote-left quote-graphql](Why do I need to process my sUAS data on the HPC?)
+@fa[quote-left quote-graphql](Why do I need to process sUAS data on the HPC?)
+<img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="200">
 @snapend
 
 @snap[north-west span-40 text-08 fragment font-montserrat text-blue]
