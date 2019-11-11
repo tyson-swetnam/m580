@@ -40,12 +40,11 @@
 @snapend
 
 @snap[west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Task 2. # Learn some Linux, *see Windows Subsystem 4 Linux v2*)
-@box[](Task 3. # Move your data to the scratch system)
+@box[](Task 2.  # Move your data to the scratch system)
 @snapend
 
 @snap[south-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Task 4. # Request some worker nodes and go!)
+@box[](Task 3. # Request some worker nodes and go!)
 <img src="http://giphygifs.s3.amazonaws.com/media/HjeIqm3MxURFK/giphy.gif" height="200">
 @snapend
 
