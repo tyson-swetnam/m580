@@ -4,9 +4,9 @@
 @fa[quote-graphql](Processing Large sUAS datasets on HPC and data hosting on Cloud)
 @snapend
 
----?video=https://www.youtube.com/embed/RNwgDQgIiS4?autoplay=1
++++
 
----?video=https://www.youtube.com/embed/1aK9BHkO3TA?autoplay=1
+![YouTube Video](https://www.youtube.com/embed/1aK9BHkO3TA?autoplay=1)
 
 @ol
 
