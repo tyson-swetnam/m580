@@ -13,6 +13,7 @@
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
 @olend
+@snapend
 
 @snap[west span-50 text-center fragment font-montserrat text-white text-14]
 @box[](If this talk is NOT for you:)
@@ -21,6 +22,7 @@
 - intimidate the others by nodding thoughtfully
 - count memes, quiz at the end
 @olend
+@snapend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
