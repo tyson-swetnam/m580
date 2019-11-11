@@ -5,7 +5,7 @@
 @snapend
 
 
----?video=https://www.youtube.com/embed/1aK9BHkO3TA
+---?video=https://youtu.be/1aK9BHkO3TA
 
 @ol
 
