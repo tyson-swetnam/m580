@@ -85,7 +85,7 @@
 
 @snap[north-east fragment span-40]
 @fa[](*Narrator Voice : "It was not easy...*")
-<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="180">
+<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="100">
 @snapend
 
 @snap[south-east fragment span-40]
