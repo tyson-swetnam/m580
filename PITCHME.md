@@ -1,13 +1,13 @@
 ---?color=linear-gradient(180deg, #2D2926 30%, #000000 50%)
 
-@snap[south span-100 text-center font-montserrat text-white text-14]
-@fa[quote-graphql](Processing Large sUAS datasets on HPC and data hosting on Cloud)
+@snap[south span-100 text-center text-white]
+# Processing Large sUAS datasets on HPC and data hosting on Cloud
 @snapend
 
 ---
 
 @snap[west span-50 text-white]
-@css[](This talk IS for you if you are )
+@css[](This talk **IS** for you if you are )
 @ol[]
 - flying sUAS 
 - processing sUAS data
@@ -16,10 +16,10 @@
 @snapend
 
 @snap[east span-50 text-white]
-@css[](If this talk is NOT for you)
+@css[](If this talk is **NOT** for you)
 @ol[]
 - pretend you know this stuff already
-- intimidate the others by nodding thoughtfully
+- intimidate others by nodding thoughtfully
 - count memes, quiz at the end
 @olend
 @snapend
@@ -30,7 +30,7 @@
 <img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
-@snap[west span-33 text-07 fragment font-montserrat text-white]
+@snap[west span-33 fragment text-white]
 @css[](Pros)
 @ol
 - Wide Adoption by Surveyors and Researchers
@@ -39,7 +39,7 @@
 @olend
 @snapend
 
-@snap[south-west span-33 text-07 fragment font-montserrat text-white]
+@snap[south-west span-33 fragment text-white]
 @css[](Cons)
 @ol
 - Requires some training
@@ -51,7 +51,7 @@
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
-@snap[span-33 text-07 fragment font-montserrat text-white]
+@snap[span-33 fragment text-white]
 @css[](Pros)
 @ol
 - Ready to use
@@ -60,7 +60,7 @@
 @olend
 @snapend
 
-@snap[south span-33 text-07 fragment font-montserrat text-white]
+@snap[south span-33 fragment text-white]
 @css[](Cons)
 @ol
 - Less flexible
@@ -72,7 +72,7 @@
 <img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
 @snapend
 
-@snap[east span-33 text-07 fragment font-montserrat text-white]
+@snap[east span-33 fragment text-white]
 @css[](Pros)
 @ol
 - Free
@@ -80,7 +80,7 @@
 @olend
 @snapend
 
-@snap[south-east span-33 text-07 fragment font-montserrat text-white]
+@snap[south-east span-33 fragment text-white]
 @css[](Cons)
 @ol
 - Less accurate than Metashape or Pix4D
@@ -90,43 +90,43 @@
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-@snap[east span-40 text-center font-montserrat text-white text-14]
+@snap[east span-40 text-white]
 @fa[quote-left quote-graphql](Why do I need to process sUAS data on the HPC?)
 <img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="200">
 @snapend
 
-@snap[north-west span-40 text-08 fragment font-montserrat text-blue]
+@snap[north-west span-40 fragment text-blue]
 @box[](Reason 1. Time is our most valuable resource # Have you ever done an SfM-MVS reconstruction of 10,000+ 20 megapixel images?)
 @snapend
 
-@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
+@snap[south-west span-40 fragment text-blue]
 @box[](Reason 2. Scale Limitation # You fly sUAS every X (day, week, month) across N (plots, fields, sites))
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
-@snap[east span-40 text-center font-cabin text-white]
+@snap[east span-40 text-white]
 @fa[quote-left quote-graphql](Using the HPC is easy!)
 @snapend
 
-@snap[north-east fragment text-center span-45 text-07 font-montserrat]
+@snap[north-east fragment span-45]
 @fa[](*Narrator Voice : "It was not easy...*")
 <img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="200">
 @snapend
 
-@snap[south-east fragment text-center span-45 text-07 font-montserrat]
+@snap[south-east fragment span-45]
 @fa[](*"but it is _FREE_"*)
 @snapend
 
-@snap[north-west span-40 text-07 fragment font-montserrat text-blue]
+@snap[north-west span-40 fragment text-blue]
 @box[](Task 1. # Create an HPC Account)
 @snapend
 
-@snap[west span-40 text-07 fragment font-montserrat text-blue]
+@snap[west span-40 fragment text-blue]
 @box[](Task 2.  # Move your data to the scratch system)
 @snapend
 
-@snap[south-west span-40 text-07 fragment font-montserrat text-blue]
+@snap[south-west span-40 fragment text-blue]
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
@@ -134,7 +134,7 @@
 
 ---
 
-# HPC Documentatation
+## HPC Documentatation
 
 ---
 
@@ -142,7 +142,7 @@ Data Management
 
 ---
 
-@snap[west span-50 text-center fragment font-montserrat text-white text-14]
+@snap[west span-50 fragment text-white]
 @box[](sUAS Core Data)
 @ol[text-08]
 - Mission Flight Plan & Logs (.gpx, .geojson, .shp)
@@ -151,7 +151,7 @@ Data Management
 @olend
 @snapend
 
-@snap[east span-50 text-center fragment font-montserrat text-white text-14]
+@snap[east span-50 fragment text-white]
 @box[](sUAS Derivative Data)
 @ol[text-08]
 - Orthomosaics 
