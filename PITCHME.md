@@ -4,6 +4,17 @@
 @fa[quote-graphql](Processing Large sUAS datasets on HPC and data hosting on Cloud)
 @snapend
 
+
+---?video=https://www.youtube.com/embed/1aK9BHkO3TA
+
+@ol
+
+- sUAS flights 
+- SfM-MVS
+- Data Hosting
+
+@olend
+
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-montserrat text-white text-14]
@@ -26,10 +37,11 @@
 
 @snap[north-east fragment text-center span-45 text-07 font-montserrat]
 @fa[](*Narrator Voice : "It was not easy...*")
+<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="200">
 @snapend
 
 @snap[south-east fragment text-center span-45 text-07 font-montserrat]
-@fa[](*Narrator Voice : "but it is free"*)
+@fa[](*"but it is _FREE_"*)
 @snapend
 
 @snap[north-west span-40 text-07 fragment font-montserrat text-blue]
@@ -45,10 +57,6 @@
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
-
-
-
----?survey=https://forms.gle/6APtuj6WKeRDeWvL6
 
 
 
