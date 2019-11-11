@@ -28,12 +28,12 @@
 @fa[quote-left quote-graphql](Using the HPC is easy)
 @snapend
 
-@snap[north-east fragment span-40 text-08 font-montserrat]
-@fa[](## *Narrator Voice : "It was not easy...*")
+@snap[north-east fragment text-center span-40 text-08 font-montserrat]
+@fa[](*Narrator Voice : "It was not easy...*")
 @snapend
 
-@snap[south-east fragment span-40 text-08 font-montserrat]
-@fa[](## *Narrator Voice : "but it is free"*)
+@snap[south-east fragment text-center span-40 text-08 font-montserrat]
+@fa[](*Narrator Voice : "but it is free"*)
 @snapend
 
 @snap[north-west span-40 text-08 fragment font-montserrat text-blue]
