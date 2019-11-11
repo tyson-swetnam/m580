@@ -27,7 +27,7 @@
 ---?color=linear-gradient(180deg, white 50%, #567AD2 50%)
 
 @snap[north-east span-33]
-<img src="https://www.dronezone.ro/wp-content/uploads/2019/02/Metashape_logo_.png" height="100">
+<img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
 @snap[east span-33 text-center fragment font-montserrat text-white text-14]
