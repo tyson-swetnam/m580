@@ -24,6 +24,33 @@
 @olend
 @snapend
 
+---
+
+@snap[north-east span-33 text-center font-montserrat text-white text-14]
+<img src="https://www.dronezone.ro/wp-content/uploads/2019/02/Metashape_logo_.png" height="100">
+@snapend
+
+@snap[east span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Pros)
+@ol[text-08]
+- Wide Adoption by Surveyors and Researchers
+- Network Processing on Cloud and HPC
+- Cheaper than others
+@olend
+@snapend
+
+@snap[south east span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Cons)
+@ol[text-08]
+- Training
+- $$$ for floating licenses
+@olend
+@snapend
+
+@snap[north span-33 text-center font-montserrat text-white text-14]
+@box[](Pix4D)
+@snapend
+
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-montserrat text-white text-14]
@@ -68,11 +95,40 @@
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
 
+---
 
+# HPC Documentatation
+
+---
+
+Data Management
+
+---
+
+@snap[west span-50 text-center fragment font-montserrat text-white text-14]
+@box[](sUAS Core Data)
+@ol[text-08]
+- Mission Flight Plan & Logs (.gpx, .geojson, .shp)
+- Images, Videos (.dng, .jpeg, .raw, .png, .tiff)
+- Ground Control Points (.csv, .xyz, .txt, .gpx)
+@olend
+@snapend
+
+@snap[east span-50 text-center fragment font-montserrat text-white text-14]
+@box[](sUAS Derivative Data)
+@ol[text-08]
+- Orthomosaics 
+- Point Clouds
+- Digital Elevation Models | Digital Terrain Models
+@olend
+@snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
+Workflow Managers
 
+---
 
+CyVerse
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
