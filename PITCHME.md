@@ -79,7 +79,7 @@
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-@snap[east span-50 font-monserrat text-white]
+@snap[east span-50 font-montserrat text-white]
 @fa[quote-left quote-graphql](Working on HPC is easy!)
 @snapend
 
@@ -96,11 +96,11 @@
 @snapend
 
 @snap[north-east fragment span-50]
-@fa[text-07 font-monserrat](*Narrator Voice : "It was not easy...*")
+@fa[text-07 font-montserrat](*Narrator Voice : "It was not easy...*")
 <img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
 @snapend
 
-@snap[south-east fragment span-40 text-07 font-monserrat]
+@snap[south-east fragment span-40 text-07 font-montserrat]
 @fa[](*"but it is _FREE_"*)
 @snapend
 
