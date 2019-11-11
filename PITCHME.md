@@ -31,7 +31,7 @@
 @snapend
 
 @snap[west span-33 text-07 fragment font-montserrat text-white]
-@box[](Pros)
+# Pros
 @ol
 - Wide Adoption by Surveyors and Researchers
 - Network Processing on Cloud and HPC
@@ -40,7 +40,7 @@
 @snapend
 
 @snap[south-west span-33 text-07 fragment font-montserrat text-white]
-@box[](Cons)
+# Cons
 @ol
 - Requires some training
 - $$$ for floating licenses
@@ -52,7 +52,7 @@
 @snapend
 
 @snap[center span-33 text-07 fragment font-montserrat text-white]
-@box[](Pros)
+# Pros
 @ol
 - Ready to use
 - Automation and integration
@@ -61,7 +61,7 @@
 @snapend
 
 @snap[south span-33 text-07 fragment font-montserrat text-white]
-@box[](Cons)
+# Cons
 @ol
 - Less flexible
 - $$$$ for Cloud Computing
@@ -73,7 +73,7 @@
 @snapend
 
 @snap[east span-33 text-07 fragment font-montserrat text-white]
-@box[](Pros)
+# Pros
 @ol
 - Free
 - Easy to use, nice interface
@@ -81,14 +81,14 @@
 @snapend
 
 @snap[south-east span-33 text-07 fragment font-montserrat text-white]
-@box[](Cons)
+# Cons
 @ol
 - Less accurate than Metashape or Pix4D
 - Does not perform at scale 
 @olend
 @snapend
 
----?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-montserrat text-white text-14]
 @fa[quote-left quote-graphql](Why do I need to process sUAS data on the HPC?)
