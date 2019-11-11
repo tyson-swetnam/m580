@@ -24,13 +24,13 @@
 @olend
 @snapend
 
----?color=linear-gradient(180deg, white 50%, #567AD2 50%)
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west span-33]
 <img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
-@snap[west span-33 text-07 fragment font-montserrat text-blue]
+@snap[west span-33 text-07 fragment font-montserrat text-white]
 @box[](Pros)
 @ol
 - Wide Adoption by Surveyors and Researchers
@@ -39,9 +39,9 @@
 @olend
 @snapend
 
-@snap[south-west span-40 text-07 fragment font-montserrat text-blue]
+@snap[south-west span-33 text-07 fragment font-montserrat text-white]
 @box[](Cons)
-@ol[text-08]
+@ol
 - Requires some training
 - $$$ for floating licenses
 @olend
@@ -51,18 +51,18 @@
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
-@snap[center span-33 text-center fragment font-montserrat text-white text-14]
+@snap[center span-33 text-07 fragment font-montserrat text-white]
 @box[](Pros)
-@ol[text-08]
+@ol
 - Ready to use
 - Automation and integration
 - ESRI Drone2Map
 @olend
 @snapend
 
-@snap[south span-33 text-center fragment font-montserrat text-white text-14]
+@snap[south span-33 text-07 fragment font-montserrat text-white]
 @box[](Cons)
-@ol[text-08]
+@ol
 - Less flexible
 - $$$$ for Cloud Computing
 @olend
@@ -72,17 +72,17 @@
 <img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
 @snapend
 
-@snap[east span-33 text-center fragment font-montserrat text-white text-14]
+@snap[east span-33 text-07 fragment font-montserrat text-white]
 @box[](Pros)
-@ol[text-08]
+@ol
 - Free
 - Easy to use, nice interface
 @olend
 @snapend
 
-@snap[south-east span-33 text-center fragment font-montserrat text-white text-14]
+@snap[south-east span-33 text-07 fragment font-montserrat text-white]
 @box[](Cons)
-@ol[text-08]
+@ol
 - Less accurate than Metashape or Pix4D
 - Does not perform at scale 
 @olend
