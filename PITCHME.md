@@ -42,13 +42,50 @@
 @snap[south east span-33 text-center fragment font-montserrat text-white text-14]
 @box[](Cons)
 @ol[text-08]
-- Training
+- Requires some training
 - $$$ for floating licenses
 @olend
 @snapend
 
 @snap[north span-33 text-center font-montserrat text-white text-14]
-@box[](Pix4D)
+<img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
+@snapend
+
+@snap[center span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Pros)
+@ol[text-08]
+- Ready to use
+- Automation and integration
+- ESRI Drone2Map
+@olend
+@snapend
+
+@snap[south span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Cons)
+@ol[text-08]
+- Less flexible
+- $$$$ for Cloud Computing
+@olend
+@snapend
+
+@snap[north-east span-33 text-center font-montserrat text-white text-14]
+<img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
+@snapend
+
+@snap[east span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Pros)
+@ol[text-08]
+- Free
+- Easy to use, nice interface
+@olend
+@snapend
+
+@snap[south-east span-33 text-center fragment font-montserrat text-white text-14]
+@box[](Cons)
+@ol[text-08]
+- Less accurate than Metashape or Pix4D
+- Does not perform at scale 
+@olend
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
