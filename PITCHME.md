@@ -24,9 +24,9 @@
 @olend
 @snapend
 
----
+---?color=linear-gradient(180deg, white 50%, #567AD2 50%)
 
-@snap[north-east span-33 text-center font-montserrat text-white text-14]
+@snap[north-east span-33]
 <img src="https://www.dronezone.ro/wp-content/uploads/2019/02/Metashape_logo_.png" height="100">
 @snapend
 
@@ -47,7 +47,7 @@
 @olend
 @snapend
 
-@snap[north span-33 text-center font-montserrat text-white text-14]
+@snap[north span-33]
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
@@ -68,7 +68,7 @@
 @olend
 @snapend
 
-@snap[north-east span-33 text-center font-montserrat text-white text-14]
+@snap[north-east]
 <img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
 @snapend
 
