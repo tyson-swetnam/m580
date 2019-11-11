@@ -59,7 +59,7 @@
 @snapend
 
 @snap[south-east span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # less accurate, even less scalable)
+@box[bg-orange text-white rounded box-padding](Con # less accurate, less scalable)
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
