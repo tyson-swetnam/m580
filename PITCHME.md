@@ -26,11 +26,11 @@
 
 ---?color=linear-gradient(180deg, white 50%, #567AD2 50%)
 
-@snap[north-east span-33]
+@snap[north-west span-33]
 <img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
-@snap[east span-33 text-center fragment font-montserrat text-white text-14]
+@snap[west span-33 text-center fragment font-montserrat text-white text-14]
 @box[](Pros)
 @ol[text-08]
 - Wide Adoption by Surveyors and Researchers
@@ -39,7 +39,7 @@
 @olend
 @snapend
 
-@snap[south east span-33 text-center fragment font-montserrat text-white text-14]
+@snap[south-west span-33 text-center fragment font-montserrat text-white text-14]
 @box[](Cons)
 @ol[text-08]
 - Requires some training
