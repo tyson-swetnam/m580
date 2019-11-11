@@ -14,7 +14,7 @@
 @box[](Reason 1. Time is our most valuable resource # Have you ever done an SfM-MVS reconstruction of 10,000+ 20 megapixel images?)
 @snapend
 
-@snap[west span-40 text-08 fragment font-montserrat text-blue]
+@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Reason 2. Scale Limitation # You fly sUAS every X (day, week, month) across N (plots, fields, sites))
 @snapend
 
