@@ -9,9 +9,9 @@ footnote : "CyVerse - <a href='https://cyverse.org'>Learn More</a>"
 
 theme            : template
 theme-background : [ "#878787" ]
-theme-headline   : [ "Cabin", "#ffffff", "none" ]
-theme-byline     : [ "Cabin", "#ffffff", "none" ]
-theme-text       : [ "Cabin", "#ffffff", "transform" ]
+theme-headline   : [ "montserrat", "#ffffff", "none" ]
+theme-byline     : [ "montserrat", "#ffffff", "none" ]
+theme-text       : [ "montserrat", "#ffffff", "transform" ]
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-code       : [ "Victor Mono" ]
 theme-controls   : [ "#484848" ]
