@@ -30,62 +30,36 @@
 <img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
-@snap[west span-33 fragment text-white]
-@css[](Pros)
-@ol
-- Wide Adoption by Surveyors and Researchers
-- Network Processing on Cloud and HPC
-- Cheaper than others
-@olend
+@snap[west span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Widely Used, Network & HPC)
 @snapend
 
-@snap[south-west span-33 fragment text-white]
-@css[](Cons)
-@ol
-- Requires some training
-- $$$ for floating licenses
-@olend
+@snap[south-west span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Training, $$$ floating licenses)
 @snapend
 
 @snap[north span-33]
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
-@snap[span-33 fragment text-white]
-@css[](Pros)
-@ol
-- Ready to use
-- Automation and integration
-- ESRI Drone2Map
-@olend
+@snap[midpoint span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Ready to use, ESRI integration)
 @snapend
 
-@snap[south span-33 fragment text-white]
-@css[](Cons)
-@ol
-- Less flexible
-- $$$$ for Cloud Computing
-@olend
+@snap[south span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # less scalable, $$$ for Cloud)
 @snapend
 
 @snap[north-east]
 <img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
 @snapend
 
-@snap[east span-33 fragment text-white]
-@css[](Pros)
-@ol
-- Free
-- Easy to use, nice interface
-@olend
+@snap[east span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Free, nice interface)
 @snapend
 
-@snap[south-east span-33 fragment text-white]
-@css[](Cons)
-@ol
-- Less accurate than Metashape or Pix4D
-- Does not perform at scale 
-@olend
+@snap[south-east span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # less accurate, even less scalable)
 @snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
