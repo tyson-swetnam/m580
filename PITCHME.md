@@ -51,7 +51,7 @@
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
-@snap[center span-33 text-07 fragment font-montserrat text-white]
+@snap[mid-point span-33 text-07 fragment font-montserrat text-white]
 #### Pros
 @ol
 - Ready to use
