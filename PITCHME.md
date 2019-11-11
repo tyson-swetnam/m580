@@ -30,16 +30,16 @@
 <img src="https://i.imgur.com/etrjhje.jpg" height="100">
 @snapend
 
-@snap[west span-33 text-center fragment font-montserrat text-white text-14]
+@snap[west span-33 text-07 fragment font-montserrat text-blue]
 @box[](Pros)
-@ol[text-08]
+@ol
 - Wide Adoption by Surveyors and Researchers
 - Network Processing on Cloud and HPC
 - Cheaper than others
 @olend
 @snapend
 
-@snap[south-west span-33 text-center fragment font-montserrat text-white text-14]
+@snap[south-west span-40 text-07 fragment font-montserrat text-blue]
 @box[](Cons)
 @ol[text-08]
 - Requires some training
