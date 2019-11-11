@@ -18,6 +18,7 @@
 @box[](Reason 2. Memory Limitations # See above )
 @snapend
 
+@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
 @box[](Reason 3. Space Limitations # See above )
 @snapend
 
