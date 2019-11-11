@@ -83,15 +83,6 @@
 @fa[quote-left quote-graphql](Working on HPC is easy!)
 @snapend
 
-@snap[north-east fragment span-50]
-@fa[](*Narrator Voice : "It was not easy...*")
-<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
-@snapend
-
-@snap[south-east fragment span-40]
-@fa[](*"but it is _FREE_"*)
-@snapend
-
 @snap[north-west span-40 fragment text-blue]
 @box[](Task 1. # Create an HPC Account)
 @snapend
@@ -102,6 +93,15 @@
 
 @snap[south-west span-40 fragment text-blue]
 @box[](Task 3. # Request some worker nodes and go!)
+@snapend
+
+@snap[north-east fragment span-50]
+@fa[text-07 font-monserrat](*Narrator Voice : "It was not easy...*")
+<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
+@snapend
+
+@snap[south-east fragment span-40 text-07 font-monserrat]
+@fa[](*"but it is _FREE_"*)
 @snapend
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
