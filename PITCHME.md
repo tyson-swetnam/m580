@@ -77,15 +77,15 @@
 @box[](Reason 2. Scale Limitation # You fly sUAS every X (day, week, month) across N (plots, fields, sites))
 @snapend
 
----?color=linear-gradient(90deg, white 50%, #567AD2 50%)
+---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 font-monserrat text-white]
 @fa[quote-left quote-graphql](Working on HPC is easy!)
 @snapend
 
-@snap[north-east fragment span-40]
+@snap[north-east fragment span-50]
 @fa[](*Narrator Voice : "It was not easy...*")
-<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="180">
 @snapend
 
 @snap[south-east fragment span-40]
