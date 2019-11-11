@@ -6,18 +6,18 @@
 
 ---
 
-@snap[west span-50 text-center fragment font-montserrat text-white text-14]
-@box[](This talk IS for you if you are #)
-@ol[text-08]
+@snap[west span-50 fragment font-montserrat text-white text-14]
+@css[](This talk IS for you if you are )
+@ol
 - flying sUAS 
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
 @olend
 @snapend
 
-@snap[east span-50 text-center fragment font-montserrat text-white text-14]
-@box[](If this talk is NOT for you #)
-@ol[text-08]
+@snap[east span-50 fragment font-montserrat text-white text-14]
+@css[](If this talk is NOT for you)
+@ol
 - pretend you know this stuff already
 - intimidate the others by nodding thoughtfully
 - count memes, quiz at the end
