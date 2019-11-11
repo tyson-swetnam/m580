@@ -15,17 +15,13 @@
 @snapend
 
 @snap[west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Reason 2. Memory Limitations # See above )
-@snapend
-
-@snap[south-west span-40 text-08 fragment font-montserrat text-blue]
-@box[](Reason 3. Space Limitations # See above )
+@box[](Reason 2. Scale Limitation # You fly sUAS every X (day, week, month) across N (plots, fields, sites))
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-center font-cabin text-white]
-@fa[quote-left quote-graphql](Using the HPC is easy)
+@fa[quote-left quote-graphql](Using the HPC is easy!)
 @snapend
 
 @snap[north-east fragment text-center span-45 text-07 font-montserrat]
@@ -48,7 +44,6 @@
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
----<img src="http://giphygifs.s3.amazonaws.com/media/HjeIqm3MxURFK/giphy.gif" height="200">
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 
