@@ -6,8 +6,8 @@
 
 ---
 
-@snap[east span-50 text-center fragment font-montserrat text-white text-14]
-@box[](This talk IS for you if you are:)
+@snap[west span-50 text-center fragment font-montserrat text-white text-14]
+@box[](This talk IS for you if you are #)
 @ol[text-08]
 - flying sUAS 
 - processing sUAS data
@@ -15,8 +15,8 @@
 @olend
 @snapend
 
-@snap[west span-50 text-center fragment font-montserrat text-white text-14]
-@box[](If this talk is NOT for you:)
+@snap[east span-50 text-center fragment font-montserrat text-white text-14]
+@box[](If this talk is NOT for you #)
 @ol[text-08]
 - pretend you know this stuff already
 - intimidate the others by nodding thoughtfully
@@ -31,7 +31,7 @@
 @snapend
 
 @snap[west span-33 text-07 fragment font-montserrat text-white]
-#### Pros
+@css[](Pros)
 @ol
 - Wide Adoption by Surveyors and Researchers
 - Network Processing on Cloud and HPC
@@ -40,7 +40,7 @@
 @snapend
 
 @snap[south-west span-33 text-07 fragment font-montserrat text-white]
-#### Cons
+@css[](Cons)
 @ol
 - Requires some training
 - $$$ for floating licenses
@@ -51,8 +51,8 @@
 <img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
-@snap[mid-point span-33 text-07 fragment font-montserrat text-white]
-#### Pros
+@snap[span-33 text-07 fragment font-montserrat text-white]
+@css[](Pros)
 @ol
 - Ready to use
 - Automation and integration
@@ -61,7 +61,7 @@
 @snapend
 
 @snap[south span-33 text-07 fragment font-montserrat text-white]
-#### Cons
+@css[](Cons)
 @ol
 - Less flexible
 - $$$$ for Cloud Computing
@@ -73,7 +73,7 @@
 @snapend
 
 @snap[east span-33 text-07 fragment font-montserrat text-white]
-#### Pros
+@css[](Pros)
 @ol
 - Free
 - Easy to use, nice interface
@@ -81,7 +81,7 @@
 @snapend
 
 @snap[south-east span-33 text-07 fragment font-montserrat text-white]
-#### Cons
+@css[](Cons)
 @ol
 - Less accurate than Metashape or Pix4D
 - Does not perform at scale 
