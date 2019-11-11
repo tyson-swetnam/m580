@@ -4,16 +4,22 @@
 @fa[quote-graphql](Processing Large sUAS datasets on HPC and data hosting on Cloud)
 @snapend
 
-+++
+---
 
-![YouTube Video](https://www.youtube.com/embed/1aK9BHkO3TA?autoplay=1)
-
+@snap[east span-50 text-center fragment font-montserrat text-white text-14]
+@box[](This talk IS for you if you are:)
 @ol
+- flying sUAS 
+- processing sUAS data
+- mapping or doing analysis with sUAS data products
+@olend
 
-- sUAS flights 
-- SfM-MVS
-- Data Hosting
-
+@snap[west span-50 text-center fragment font-montserrat text-white text-14]
+@box[](If this talk is NOT for you:)
+@ol
+- pretend you know this stuff already
+- intimidate the others by nodding thoughtfully
+- count memes, quiz at the end
 @olend
 
 ---?color=linear-gradient(90deg, white 50%, #567AD2 50%)
@@ -58,7 +64,7 @@
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
----?image=assets/imagery/metashape_hpc.jpeg
+---?image=assets/imagery/metashape_hpc.jpeg&size=contain
 
 
 
