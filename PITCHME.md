@@ -6,18 +6,18 @@
 
 ---
 
-@snap[west span-50 fragment font-montserrat text-white text-14]
-@css[font-montserrat](This talk IS for you if you are )
-@ol[font-montserrat text-8]
+@snap[west span-50 text-white]
+@css[](This talk IS for you if you are )
+@ol[]
 - flying sUAS 
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
 @olend
 @snapend
 
-@snap[east span-50 fragment font-montserrat text-white text-14]
-@css[font-montserrat](If this talk is NOT for you)
-@ol[font-montserrat text-8]
+@snap[east span-50 text-white]
+@css[](If this talk is NOT for you)
+@ol[]
 - pretend you know this stuff already
 - intimidate the others by nodding thoughtfully
 - count memes, quiz at the end
