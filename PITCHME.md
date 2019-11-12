@@ -184,10 +184,6 @@ Working with Data in the Cloud
 @olend
 @snapend
 
----
-
-CyVerse Data Store
-
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-white]
@@ -206,4 +202,18 @@ CyVerse Data Store
 @snap[south-east fragment span-40]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
 @fa[text-06 font-montserrat](*its FREE*")
+@snapend
+
+---
+
+CyVerse Data Store
+
+---
+@snap[north span-100 text-center font-montserrat text-white text-14]
+@fa[quote-graphql](Want to Learn More?)
+@snap[south span-100 text-center font-montserrat text-white text-14]
+@fa[quote-graphql](Join Research Bazaar Arizona) 
+<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
+@fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
+@fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[orcid fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
 @snapend
