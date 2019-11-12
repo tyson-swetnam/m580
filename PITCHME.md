@@ -51,7 +51,7 @@
 @snapend
 
 @snap[north-east]
-<img src="https://static.wixstatic.com/media/c0136c_970bb6ac4fdc47aca453859e71abe7cc~mv2.png" height="100">
+<img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
 @snapend
 
 @snap[east span-33 fragment]
