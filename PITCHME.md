@@ -209,8 +209,11 @@ Working with Data in the Cloud
 CyVerse Data Store
 
 ---
+
 @snap[north span-100 text-center font-montserrat text-white text-14]
 @fa[quote-graphql](Want to Learn More?)
+@snapend
+
 @snap[south span-100 text-center font-montserrat text-white text-14]
 @fa[quote-graphql](Join Research Bazaar Arizona) 
 <img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
