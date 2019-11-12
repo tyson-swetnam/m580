@@ -110,29 +110,46 @@
 ---
 
 @snap[west fragment span-33]
-@css[](Load Singularity and Start container]
-<img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="200">
+@css[](Load Singularity]
+<img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="100">
 @snapend
 
 @snap[north-west fragment span-33]
 @css[](Start Graphic User Interface]
-<img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="100">
 @snapend
 
 @snap[north-east fragment span-33]
 @css[](Request Worker Nodes]
-<img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="100">
 @snapend
 
 @snap[north fragment span-33]
 @css[](Start Monitor)
-<img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="100">
 @snapend
 
 @snap[midpoint fragment span-33]
 @css[](Start Server node]
-<img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="200">
+<img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="100">
+@snapend
 
+@snap[east fragment span-33]
+@css[Load images and create project]
+<img src="https://media.giphy.com/media/3nMyrWq4bQwPm/giphy.gif" height="100">
+@snapend 
+
+@snap[south fragment span-100]
+```bash
+$ module load singularity
+$ singularity run metashape_container.sif ./metashape-pro/metashape.sh 
+$ singularity run metashape_container.sif ./metashape-pro/metashape.sh --node 
+$ singularity run metashape_container.sif ./metashape-pro/metashape.sh --server
+$ singularity run metashape_container.sif ./metashape-pro/monitor.sh 
+$ python3 quick_layout.py 
+```
+
+---
 
 ## HPC Documentation
 
