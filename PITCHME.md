@@ -100,6 +100,11 @@
 <img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
 @snapend
 
+@snap[south-east fragment span-40]
+@fa[text-06 font-montserrat](*but its FREE*")
+<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
+@snapend
+
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
 
 
