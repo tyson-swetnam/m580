@@ -95,8 +95,8 @@
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
-@snap[north-east fragment span-55]
-@fa[text-07 font-montserrat](*Narrator Voice - "It was not easy*")
+@snap[north-east fragment span-50]
+@fa[text-06 font-montserrat](*Narrator Voice - "It was not easy*")
 <img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
 @snapend
 
