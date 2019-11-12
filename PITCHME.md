@@ -109,34 +109,34 @@
 
 ---
 
-@snap[west fragment span-33 font-montserrat text-06]
+@snap[west fragment span-40 font-montserrat text-05]
 @css[](Load Singularity)
-<img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="200">
 @snapend
 
-@snap[north-west fragment span-33 font-montserrat text-06]
+@snap[north-west fragment span-40 font-montserrat text-05]
 @css[](Start Graphic User Interface)
-<img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="200">
 @snapend
 
-@snap[north-east fragment span-33 font-montserrat text-06]
+@snap[north-east fragment span-40 font-montserrat text-05]
 @css[](Request Worker Nodes)
-<img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="200">
 @snapend
 
-@snap[north fragment span-33 font-montserrat text-06]
+@snap[north fragment span-40 font-montserrat text-05]
 @css[](Start Monitor)
-<img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="200">
 @snapend
 
-@snap[midpoint fragment span-33 font-montserrat text-06]
+@snap[midpoint fragment span-40 font-montserrat text-05]
 @css[](Start Server node)
-<img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="200">
 @snapend
 
-@snap[east fragment span-33 font-montserrat text text-06]
+@snap[east fragment span-40 font-montserrat text text-05]
 @css[](Load images and create project)
-<img src="https://media.giphy.com/media/3nMyrWq4bQwPm/giphy.gif" height="100">
+<img src="https://media.giphy.com/media/3nMyrWq4bQwPm/giphy.gif" height="200">
 @snapend 
 
 @snap[south fragment span-100]
