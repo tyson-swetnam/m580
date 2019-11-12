@@ -218,5 +218,5 @@ CyVerse Data Store
 @fa[quote-graphql](Join Research Bazaar Arizona) 
 <img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
 @fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
-@fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[orcid fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
+@fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[superpowers fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
 @snapend
