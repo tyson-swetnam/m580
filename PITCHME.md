@@ -101,8 +101,8 @@
 @snapend
 
 @snap[south-east fragment span-40]
-@fa[text-06 font-montserrat](*but its FREE*")
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
+@fa[text-06 font-montserrat](*its FREE*")
 @snapend
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
@@ -189,3 +189,21 @@ Working with Data in the Cloud
 CyVerse Data Store
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
+
+@snap[east span-40 text-white]
+@fa[quote-left quote-graphql](Why should I use CyVerse?)
+<img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="200">
+@snapend
+
+@snap[north-west span-40 fragment text-blue]
+@box[](Reason 1. Computer time and data storage cost $ # Do you host a web service on AWS, or data on S3?)
+@snapend
+
+@snap[south-west span-40 fragment text-blue]
+@box[](Reason 2. Location Location Location # Put your data in the same place that you intend to do work on them ))
+@snapend
+
+@snap[south-east fragment span-40]
+<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
+@fa[text-06 font-montserrat](*its FREE*")
+@snapend
