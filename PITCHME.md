@@ -110,17 +110,17 @@
 ---
 
 @snap[west fragment span-33]
-@css[](Load Singularity]
+@css[](Load Singularity)
 <img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="100">
 @snapend
 
 @snap[north-west fragment span-33]
-@css[](Start Graphic User Interface]
+@css[](Start Graphic User Interface)
 <img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="100">
 @snapend
 
 @snap[north-east fragment span-33]
-@css[](Request Worker Nodes]
+@css[](Request Worker Nodes)
 <img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="100">
 @snapend
 
@@ -130,12 +130,12 @@
 @snapend
 
 @snap[midpoint fragment span-33]
-@css[](Start Server node]
+@css[](Start Server node)
 <img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="100">
 @snapend
 
 @snap[east fragment span-33]
-@css[Load images and create project]
+@css[](Load images and create project)
 <img src="https://media.giphy.com/media/3nMyrWq4bQwPm/giphy.gif" height="100">
 @snapend 
 
@@ -148,6 +148,10 @@ $ singularity run metashape_container.sif ./metashape-pro/metashape.sh --server
 $ singularity run metashape_container.sif ./metashape-pro/monitor.sh 
 $ python3 quick_layout.py 
 ```
+@[1](Load Singularity)
+@[2,5](Start Graphic User Interface and Monitor)
+@[3,4](Start Server & Worker nodes)
+@[6](Load images and create project)
 
 ---
 
