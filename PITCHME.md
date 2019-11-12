@@ -95,13 +95,9 @@
 @box[](Task 3. # Request some worker nodes and go!)
 @snapend
 
-@snap[north-east fragment span-50]
-@fa[text-07 font-montserrat](*Narrator Voice : "It was not easy...*")
+@snap[north-east fragment span-55]
+@fa[text-07 font-montserrat](*Narrator Voice - "It was not easy*")
 <img src="https://media.giphy.com/media/3oriNNwSR4ET5zd0xq/giphy.gif" height="300">
-@snapend
-
-@snap[south-east fragment span-40 text-07 font-montserrat]
-@fa[](*"but it is _FREE_"*)
 @snapend
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
@@ -142,48 +138,46 @@
 @snap[south fragment span-100]
 ```bash
 $ module load singularity
-$ singularity run metashape_container.sif ./metashape-pro/metashape.sh 
+$ ./metashape-pro/metashape.sh 
+$ ./metashape-pro/monitor.sh 
 $ singularity run metashape_container.sif ./metashape-pro/metashape.sh --node 
-$ singularity run metashape_container.sif ./metashape-pro/metashape.sh --server
-$ singularity run metashape_container.sif ./metashape-pro/monitor.sh 
+$ ./metashape-pro/metashape.sh --server
 $ python3 quick_layout.py 
 ```
 @[1](Load Singularity)
-@[2,5](Start Graphic User Interface and Monitor)
-@[3,4](Start Server & Worker nodes)
-@[6](Load images and create project)
+@[2,3](Start Graphic User Interface and Monitor)
+@[4,5](Start Server & Worker nodes)
+@[6](Load and process images)
 
 ---
 
 ## HPC Documentation
 
+hpc.arizona.edu
+
 ---
 
-Data Management Systems
+Working with Data in the Cloud
 
 ---
 
 @snap[west span-50 fragment text-white]
-@box[](sUAS Core Data)
+@box[](sUAS Data)
 @ol[text-08]
-- Mission Flight Plan & Logs (.gpx, .geojson, .shp)
-- Images, Videos (.dng, .jpeg, .raw, .png, .tiff)
-- Ground Control Points (.csv, .xyz, .txt, .gpx)
+- Mission Flight Plan & Logs (*.gpx, .geojson, .shp*)
+- Images, Videos (*.dng, .jpeg, .raw, .png, .tiff*)
+- Ground Control Points (*.csv, .xyz, .txt, .gpx*)
 @olend
 @snapend
 
 @snap[east span-50 fragment text-white]
-@box[](sUAS Derivative Data)
+@box[](Derivatives)
 @ol[text-08]
-- Orthomosaics 
-- Point Clouds
-- Digital Elevation Models | Digital Terrain Models
+- Orthomosaics (*.mbtiles, .tif*)
+- Point Clouds (*.laz, .ept*)
+- Digital Elevation Models | Digital Terrain Models (*.tif*)
 @olend
 @snapend
-
----?color=linear-gradient(80deg, white 50%, #567AD2 50%)
-
-Power up with Jupyter Notebooks
 
 ---
 
