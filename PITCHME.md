@@ -1,7 +1,7 @@
 ---?color=linear-gradient(180deg, #2D2926 30%, #000000 50%)
 
 @snap[south span-100 text-center text-white]
-# Processing Large sUAS datasets on HPC and data hosting on Cloud
+## Processing Large sUAS datasets on HPC and data hosting on Cloud
 @snapend
 
 ---
