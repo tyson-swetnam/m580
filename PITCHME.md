@@ -1,4 +1,4 @@
----?color=linear-gradient(180deg, #2D2926 30%, #000000 50%)
+---?video=https://data.cyverse.org/dav/iplant/commons/cyverse_curated/Gillan_et_al_RAMA_2019/raw_images/Phantom_images_plot4_28Sept2016/DJI_0011.MP4
 
 @snap[south span-100 text-center text-white]
 ## Processing Large sUAS datasets on HPC and data hosting on Cloud
