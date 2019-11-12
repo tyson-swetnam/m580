@@ -6,7 +6,7 @@
 
 ---
 
-@snap[west span-50 text-white]
+@snap[west span-50 text-green]
 @css[](This talk **IS** for you if you are )
 @ol[]
 - flying sUAS 
@@ -15,8 +15,8 @@
 @olend
 @snapend
 
-@snap[east span-50 text-white]
-@css[](If this talk is **NOT** for you)
+@snap[east span-50 text-yellow]
+@css[](If this talk **is NOT** for you)
 @ol[]
 - pretend you know this stuff already
 - intimidate others by nodding thoughtfully
@@ -106,13 +106,39 @@
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
 
----
-
-## HPC Documentatation
 
 ---
 
-Data Management
+@snap[west fragment span-33]
+@css[](Load Singularity and Start container]
+<img src="https://media.giphy.com/media/3o85xAwT5hvVXhyuli/giphy.gif" height="200">
+@snapend
+
+@snap[north-west fragment span-33]
+@css[](Start Graphic User Interface]
+<img src="https://media.giphy.com/media/3rgXBEi3D9MjNONsm4/giphy.gif" height="200">
+@snapend
+
+@snap[north-east fragment span-33]
+@css[](Request Worker Nodes]
+<img src="https://media.giphy.com/media/yoJC2GGW98YQY2a8PS/giphy.gif" height="200">
+@snapend
+
+@snap[north fragment span-33]
+@css[](Start Monitor)
+<img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="200">
+@snapend
+
+@snap[midpoint fragment span-33]
+@css[](Start Server node]
+<img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="200">
+
+
+## HPC Documentation
+
+---
+
+Data Management Systems
 
 ---
 
@@ -136,10 +162,10 @@ Data Management
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-Workflow Managers
+Power up with Jupyter Notebooks
 
 ---
 
-CyVerse
+CyVerse Data Store
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
