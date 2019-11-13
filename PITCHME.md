@@ -168,6 +168,7 @@ $ python3 quick_layout.py
 
 ---
 
+@snap[north span-100]
 <canvas data-chart="bar">
 <!--
 {
@@ -183,7 +184,23 @@ $ python3 quick_layout.py
     "data":[126,64,168,256,256],
     "label":"CPU RAM (GB)",
     "backgroundColor":"rgba(120,120,220,.8)"
-   },
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+@snapend
+
+@snap[south span-100]
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
+  "datasets": [
+
    {
     "data":[2560,2496,3584,5120,2560],
     "label":"GPU Cores",
@@ -200,6 +217,7 @@ $ python3 quick_layout.py
 }
 -->
 </canvas>
+@snapend
 
 ---
 
