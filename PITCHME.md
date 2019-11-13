@@ -170,15 +170,15 @@ $ python3 quick_layout.py
 <!--
 {
  "data": {
-  "labels": ["My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
+  "labels": ["Your Laptop", " My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
   "datasets": [
    {
-    "data":[16,16,28,96,64],
+    "data":[4,16,16,28,96,64],
     "label":"CPU Cores",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[126,64,168,256,256],
+    "data":[16,128,64,168,256,256],
     "label":"CPU RAM (GB)",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
@@ -199,16 +199,16 @@ $4.352 / hr
 <!--
 {
  "data": {
-  "labels": ["My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge x 10 nodes"],
+  "labels": ["Your Laptop", " My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge x 10 nodes"],
   "datasets": [
    {
-    "data":[16,160,280,960,640],
+    "data":[4, 16,160,280,960,640],
     "label":"CPU Cores",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[126,640,1680,2560,2560],
-    "label":"CPU RAM (GB)",
+    "data":[16, 126,640,1680,2560,2560],
+    "label":"CPU RAM (B)",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
   ]
