@@ -289,7 +289,7 @@ Working with Data in the Cloud
 @box[](Reason 1. Computer time and data storage cost $$$$ # Do you host web services on AWS, or data on S3?)
 @snapend
 
-@snap[south-west span-0 fragment text-blue]
+@snap[south-west span-40 fragment text-blue]
 @box[](Reason 2. Location-Location-Location # Put your data in the same place that you intend to do work on them ))
 @snapend
 
@@ -303,7 +303,7 @@ Working with Data in the Cloud
 CyVerse
 @snapend
 
-@snap[south-west span-33 text-white]
+@snap[west span-33 text-white]
 @box[](Data Store)
 @ol[text-08]
 - Host up to 10TB
@@ -312,7 +312,7 @@ CyVerse
 @olend
 @snapend
 
-@snap[south span-33 text-white]
+@snap[midpoint span-33 text-white]
 @box[](Discovery Environment)
 @ol[text-08]
 - RStudio & Jupyter Notebooks
@@ -321,7 +321,7 @@ CyVerse
 @olend
 @snapend
 
-@snap[south-east span-33 text-white]
+@snap[east span-33 text-white]
 @box[](Cloud Native Services)
 @ol[text-08]
 - Virtual Machines
