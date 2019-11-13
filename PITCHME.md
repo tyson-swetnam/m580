@@ -321,11 +321,11 @@ Working with Data in the Cloud
 @snapend
 
 @snap[west fragment]
-@fa[coffee] fa@[calendar] 
-Tuesday 8-10AM BSRL Building
+@fa[coffee]
+@fa[quote-graphql font-montserrat text-04](Tuesday 8-10AM BSRL Building)
 @snapend
 
 @snap[east fragment]
-@fa[beer] fa@[calendar] 
-Thursday 4-6PM Gentle Bens
+@fa[beer]
+@fa[quote-graphql font-montserrat text-04](Thursday 4-6PM @Gentle Bens)
 @snapend
