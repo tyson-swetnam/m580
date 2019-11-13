@@ -208,7 +208,7 @@ $4.352 / hr
    },
    {
     "data":[16, 126,640,1680,2560,2560],
-    "label":"CPU RAM (B)",
+    "label":"CPU RAM (MB)",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
   ]
