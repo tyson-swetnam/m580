@@ -189,6 +189,10 @@ $ python3 quick_layout.py
 -->
 </canvas>
 
+@snap[north-west fragment]
+$4.352 / hr
+@snapend
+
 ---
 
 <canvas data-chart="bar">
@@ -198,12 +202,12 @@ $ python3 quick_layout.py
   "labels": ["My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge"],
   "datasets": [
    {
-    "data":[16,160,280,960,64],
+    "data":[16,160,280,960,640],
     "label":"CPU Cores",
     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[126,640,1680,2560,256],
+    "data":[126,640,1680,2560,2560],
     "label":"CPU RAM (GB)",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
@@ -213,6 +217,10 @@ $ python3 quick_layout.py
 }
 -->
 </canvas>
+
+@snap[north-west fragment]
+$43.52 / hr
+@snapend
 
 ---
 
