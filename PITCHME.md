@@ -195,7 +195,7 @@ $ python3 quick_layout.py
 <!--
 {
  "data": {
-  "labels": ["My Workstation"," El Gato x 10"," Ocelote x 10"," HPC-X x 10", " AWS EC2 g4dn.16xlarge"],
+  "labels": ["My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge"],
   "datasets": [
    {
     "data":[16,160,280,960,64],
@@ -220,7 +220,7 @@ $ python3 quick_layout.py
 <!--
 {
  "data": {
-  "labels": ["My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
+  "labels": ["Workstation GTX1080 x2"," El Gato K20"," Ocelote P100"," HPC-X V100", " AWS EC2 T4"],
   "datasets": [
 
    {
@@ -229,8 +229,8 @@ $ python3 quick_layout.py
      "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[8,5,16,32,16],
-    "label":"GPU RAM",
+    "data":[16000,10000,16000,32000,16000],
+    "label":"GPU RAM (MB)",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
   ]
