@@ -83,7 +83,7 @@
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-50 text-white]
-@fa[quote-left quote-graphql font-montserrat](Working on HPC is easy!)
+@fa[quote-left quote-graphql](Working on HPC is easy!)
 @snapend
 
 @snap[north-west span-40 fragment text-blue]
