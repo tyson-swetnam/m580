@@ -62,6 +62,9 @@
 @box[bg-orange text-white rounded box-padding](Con # less accurate, less scalable)
 @snapend
 
+---
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Drone experts: if you had to pick one software for doing structure-from-motion photogrammetry in woodland and forest environments, which would it be?<a href="https://twitter.com/stefanopuliti?ref_src=twsrc%5Etfw">@stefanopuliti</a> <a href="https://twitter.com/ashenkin?ref_src=twsrc%5Etfw">@ashenkin</a> <a href="https://twitter.com/TeamShrub?ref_src=twsrc%5Etfw">@TeamShrub</a> <a href="https://twitter.com/YuriShendryk?ref_src=twsrc%5Etfw">@YuriShendryk</a> <a href="https://twitter.com/KEJoyce2?ref_src=twsrc%5Etfw">@KEJoyce2</a> <a href="https://twitter.com/KAnderson_RS?ref_src=twsrc%5Etfw">@KAnderson_RS</a> <a href="https://twitter.com/mikewulder?ref_src=twsrc%5Etfw">@mikewulder</a></p>&mdash; Tommaso Jucker (@tommaso_jucker) <a href="https://twitter.com/tommaso_jucker/status/1189847902673342464?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-white]
