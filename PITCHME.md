@@ -224,31 +224,6 @@ $43.52 / hr
 
 ---
 
-<canvas data-chart="bar">
-<!--
-{
- "data": {
-  "labels": ["Workstation GTX1080 x2"," El Gato K20"," Ocelote P100"," HPC-X V100", " AWS EC2 T4"],
-  "datasets": [
-
-   {
-    "data":[5120,2496,3584,5120,2560],
-    "label":"GPU Cores",
-     "backgroundColor":"rgba(20,20,220,.8)"
-   },
-   {
-    "data":[16000,10000,16000,32000,16000],
-    "label":"GPU RAM (MB)",
-    "backgroundColor":"rgba(120,120,220,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-
----
 
 ## HPC Documentation
 
@@ -277,6 +252,8 @@ Working with Data in the Cloud
 - Digital Elevation Models | Digital Terrain Models (*.tif*)
 @olend
 @snapend
+
+---?image=assets/imagery/nifa/jpeg&size=contain
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
