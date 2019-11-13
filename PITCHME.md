@@ -136,12 +136,12 @@
 @snapend
 
 @snap[north fragment span-40 font-montserrat text-05]
-@css[](Start Monitor)
+@css[](Start Network Monitor)
 <img src="https://media.giphy.com/media/rN3Xp323XRxV6/giphy.gif" height="150">
 @snapend
 
 @snap[midpoint fragment span-40 font-montserrat text-05]
-@css[](Start Server node)
+@css[](Start Server Node)
 <img src="https://media.giphy.com/media/YBbiSlb0IzC24/giphy.gif" height="150">
 @snapend
 
