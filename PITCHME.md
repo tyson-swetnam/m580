@@ -166,9 +166,6 @@ $ python3 quick_layout.py
 
 ---
 
----
-
-
 <canvas data-chart="bar">
 <!--
 {
@@ -198,6 +195,31 @@ $ python3 quick_layout.py
 <!--
 {
  "data": {
+  "labels": ["My Workstation"," El Gato x 10"," Ocelote x 10"," HPC-X x 10", " AWS EC2 g4dn.16xlarge"],
+  "datasets": [
+   {
+    "data":[16,160,280,960,64],
+    "label":"CPU Cores",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[126,640,1680,2560,256],
+    "label":"CPU RAM (GB)",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+---
+
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
   "labels": ["My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
   "datasets": [
 
@@ -207,7 +229,7 @@ $ python3 quick_layout.py
      "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[8000,5000,16000,32000,16000],
+    "data":[8,5,16,32,16],
     "label":"GPU RAM",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
