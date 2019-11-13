@@ -6,18 +6,18 @@
 
 ---
 
-@snap[west span-50 text-green]
-@css[](This talk **IS** for you if you are )
-@ol[]
+@snap[west span-50 text-green font-montserrat]
+@css[font-montserrat](This talk **IS** for you if you are )
+@ol[font-montserrat]
 - flying sUAS 
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
 @olend
 @snapend
 
-@snap[east span-50 text-yellow]
-@css[](If this talk **is NOT** for you)
-@ol[]
+@snap[east span-50 text-yellow font-montserrat]
+@css[font-montserrat](If this talk **is NOT** for you)
+@ol[font-montserrat]
 - pretend you know this stuff already
 - intimidate others by nodding thoughtfully
 - count memes, quiz at the end
@@ -68,7 +68,7 @@
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
 @snap[east span-40 text-white]
-@fa[quote-left quote-graphql](Why do I need to process sUAS data on the HPC?)
+@fa[quote-left quote-graphql font-montserrat](Why do I need to process sUAS data on the HPC?)
 <img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="200">
 @snapend
 
@@ -82,8 +82,8 @@
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
-@snap[east span-50 font-montserrat text-white]
-@fa[quote-left quote-graphql](Working on HPC is easy!)
+@snap[east span-50 text-white]
+@fa[quote-left quote-graphql font-montserrat](Working on HPC is easy!)
 @snapend
 
 @snap[north-west span-40 fragment text-blue]
@@ -105,7 +105,7 @@
 
 @snap[south-east fragment span-40]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
-@fa[text-06 font-montserrat](*its FREE*")
+@fa[text-06 font-montserrat](*but it is _FREE_*")
 @snapend
 
 ---?image=assets/imagery/metashape_hpc.jpeg&size=contain
