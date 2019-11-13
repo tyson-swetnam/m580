@@ -80,7 +80,7 @@
 @snapend
 
 @snap[north-west span-40 fragment text-blue]
-@box[](Reason 1. Time is our most valuable resource # Have you ever done an SfM-MVS reconstruction of 10,000+ 20 megapixel images?)
+@box[](Reason 1. Time is our most valuable resource # Have you ever attempted a SfM-MVS reconstruction of 10,000+ 20 megapixel images?)
 @snapend
 
 @snap[south-west span-40 fragment text-blue]
