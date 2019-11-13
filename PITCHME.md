@@ -299,8 +299,8 @@ Working with Data in the Cloud
 @snapend
 
 ---
-@snap[north span-100 text-center text-white text-14]
-<img src"=/assets/imagery/cyverse_white.png" height="180">
+@snap[north span-100]
+![GRAPHQL](/assets/imagery/cyverse_white.png)
 @snapend
 
 @snap[west span-33 text-white]
