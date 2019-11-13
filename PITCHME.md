@@ -189,7 +189,7 @@ $ python3 quick_layout.py
 -->
 </canvas>
 
-@snap[north-west fragment]
+@snap[north-east fragment font-montserrat text-06]
 $4.352 / hr
 @snapend
 
@@ -218,7 +218,7 @@ $4.352 / hr
 -->
 </canvas>
 
-@snap[north-west fragment]
+@snap[north-east fragment font-montserrat text-06]
 $43.52 / hr
 @snapend
 
