@@ -319,3 +319,13 @@ Working with Data in the Cloud
 @fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
 @fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[superpowers fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
 @snapend
+
+@snap[west fragment]
+@fa[coffee] fa@[calendar] 
+Tuesday 8-10AM BSRL Building
+@snapend
+
+@snap[east fragment]
+@fa[beer] fa@[calendar] 
+Thursday 4-6PM Gentle Bens
+@snapend
