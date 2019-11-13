@@ -6,18 +6,18 @@
 
 ---
 
-@snap[west span-50 text-green font-montserrat]
-@css[font-montserrat](This talk **IS** for you if you are )
-@ol[font-montserrat]
+@snap[west span-50 text-green]
+@css[](This talk **IS** for you if you are )
+@ol[]
 - flying sUAS 
 - processing sUAS data
 - mapping or doing analysis with sUAS data products
 @olend
 @snapend
 
-@snap[east span-50 text-yellow font-montserrat]
-@css[font-montserrat](If this talk **is NOT** for you)
-@ol[font-montserrat]
+@snap[east span-50 text-yellow]
+@css[](If this talk **is NOT** for you)
+@ol[]
 - pretend you know this stuff already
 - intimidate others by nodding thoughtfully
 - count memes, quiz at the end
@@ -191,15 +191,15 @@ Working with Data in the Cloud
 
 @snap[east span-40 text-white]
 @fa[quote-left quote-graphql](Why should I use CyVerse?)
-<img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="200">
+<img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="180">
 @snapend
 
 @snap[north-west span-40 fragment text-blue]
-@box[](Reason 1. Computer time and data storage cost $ # Do you host a web service on AWS, or data on S3?)
+@box[](Reason 1. Computer time and data storage cost $$$$ # Do you host web services on AWS, or data on S3?)
 @snapend
 
-@snap[south-west span-40 fragment text-blue]
-@box[](Reason 2. Location Location Location # Put your data in the same place that you intend to do work on them ))
+@snap[south-west span-0 fragment text-blue]
+@box[](Reason 2. Location-Location-Location # Put your data in the same place that you intend to do work on them ))
 @snapend
 
 @snap[south-east fragment span-40]
@@ -208,17 +208,45 @@ Working with Data in the Cloud
 @snapend
 
 ---
+@snap[north span-100 text-center text-white text-14]
+CyVerse
+@snapend
 
-CyVerse Data Store
+@snap[south-west span-33 text-white]
+@box[](Data Store)
+@ol[text-08]
+- Host up to 10TB
+- Cloud Storage
+- Share with colleagues
+@olend
+@snapend
+
+@snap[south span-33 text-white]
+@box[](Discovery Environment)
+@ol[text-08]
+- RStudio & Jupyter Notebooks
+- Share Analyses
+- Batch Processing
+@olend
+@snapend
+
+@snap[south-east span-33 text-white]
+@box[](Cloud Native Services)
+@ol[text-08]
+- Virtual Machines
+- Run Jobs
+- Run Services
+@olend
+@snapend
 
 ---
 
-@snap[north span-100 text-center font-montserrat text-white text-14]
-@fa[quote-graphql](Want to Learn More?)
+@snap[north span-100 text-center text-white text-14]
+@fa[quote-graphql font-montserrat](Want to Learn More?)
 @snapend
 
-@snap[south span-100 text-center font-montserrat text-white text-14]
-@fa[quote-graphql](Join Research Bazaar Arizona) 
+@snap[south span-100 text-center text-white text-14]
+@fa[quote-graphql font-montserrat](Join Research Bazaar Arizona) 
 <img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
 @fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] @fab[apple fa-sm]  @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
 @fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[superpowers fa-sm] @fab[empire fa-sm] @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
