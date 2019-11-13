@@ -253,7 +253,7 @@ Working with Data in the Cloud
 @olend
 @snapend
 
----?image=assets/imagery/nifa/jpeg&size=contain
+---?image=assets/imagery/nifa.jpeg&size=contain
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
