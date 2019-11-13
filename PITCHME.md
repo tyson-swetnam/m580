@@ -290,7 +290,7 @@ Working with Data in the Cloud
 @snapend
 
 @snap[south-west span-40 fragment text-blue]
-@box[](Reason 2. Location-Location-Location # Put your data in the same place that you intend to do work on them ))
+@box[](Reason 2. Location-Location-Location # Put your data in the same place that you intend to do work on them)
 @snapend
 
 @snap[south-east fragment span-40]
@@ -300,7 +300,7 @@ Working with Data in the Cloud
 
 ---
 @snap[north span-100 text-center text-white text-14]
-CyVerse
+<img src"=/assets/imagery/cyverse_white.png" height="180">
 @snapend
 
 @snap[west span-33 text-white]
