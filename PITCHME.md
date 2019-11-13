@@ -63,7 +63,14 @@
 @snapend
 
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Drone experts: if you had to pick one software for doing structure-from-motion photogrammetry in woodland and forest environments, which would it be?<a href="https://twitter.com/stefanopuliti?ref_src=twsrc%5Etfw">@stefanopuliti</a> <a href="https://twitter.com/ashenkin?ref_src=twsrc%5Etfw">@ashenkin</a> <a href="https://twitter.com/TeamShrub?ref_src=twsrc%5Etfw">@TeamShrub</a> <a href="https://twitter.com/YuriShendryk?ref_src=twsrc%5Etfw">@YuriShendryk</a> <a href="https://twitter.com/KEJoyce2?ref_src=twsrc%5Etfw">@KEJoyce2</a> <a href="https://twitter.com/KAnderson_RS?ref_src=twsrc%5Etfw">@KAnderson_RS</a> <a href="https://twitter.com/mikewulder?ref_src=twsrc%5Etfw">@mikewulder</a></p>&mdash; Tommaso Jucker (@tommaso_jucker) <a href="https://twitter.com/tommaso_jucker/status/1189847902673342464?ref_src=twsrc%5Etfw">October 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+@snap[west h3-white span-50]
+### @fa[twitter] a recent informal survey of community members
+@snapend
+
+@snap[east span-50]
+  @tweet[https://twitter.com/tommaso_jucker/status/1189847902673342464]
+@snapend
 
 ---?color=linear-gradient(80deg, white 50%, #567AD2 50%)
 
@@ -156,6 +163,43 @@ $ python3 quick_layout.py
 @[2,3](Start Graphic User Interface and Monitor)
 @[4,5](Start Server & Worker nodes)
 @[6](Load and process images)
+
+---
+
+---
+
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["My Workstation"," El Gato"," Ocelote"," HPC-X", " AWS EC2 g4dn.16xlarge"],
+  "datasets": [
+   {
+    "data":[16,16,28,96,64],
+    "label":"CPU Cores",
+    "backgroundColor":"rgba(20,20,220,.8)"
+   },
+   {
+    "data":[126,64,168,256,256],
+    "label":"CPU RAM (GB)",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[2560,2496,3584,5120,2560],
+    "label":"GPU Cores",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   },
+   {
+    "data":[8,5,16,32,16],
+    "label":"GPU RAM",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
 
 ---
 
