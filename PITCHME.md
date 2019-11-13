@@ -199,7 +199,7 @@ $4.352 / hr
 <!--
 {
  "data": {
-  "labels": ["My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge"],
+  "labels": ["My Workstation"," El Gato x 10 nodes"," Ocelote x 10 nodes"," HPC-X x 10 nodes", " AWS EC2 g4dn.16xlarge x 10 nodes"],
   "datasets": [
    {
     "data":[16,160,280,960,640],
