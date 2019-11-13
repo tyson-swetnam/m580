@@ -168,7 +168,7 @@ $ python3 quick_layout.py
 
 ---
 
-@snap[north span-100]
+
 <canvas data-chart="bar">
 <!--
 {
@@ -191,9 +191,9 @@ $ python3 quick_layout.py
 }
 -->
 </canvas>
-@snapend
 
-@snap[south span-100]
+---
+
 <canvas data-chart="bar">
 <!--
 {
@@ -204,10 +204,10 @@ $ python3 quick_layout.py
    {
     "data":[2560,2496,3584,5120,2560],
     "label":"GPU Cores",
-    "backgroundColor":"rgba(120,120,220,.8)"
+     "backgroundColor":"rgba(20,20,220,.8)"
    },
    {
-    "data":[8,5,16,32,16],
+    "data":[8000,5000,16000,32000,16000],
     "label":"GPU RAM",
     "backgroundColor":"rgba(120,120,220,.8)"
    }
@@ -217,7 +217,6 @@ $ python3 quick_layout.py
 }
 -->
 </canvas>
-@snapend
 
 ---
 
