@@ -1,10 +1,142 @@
----?video=https://data.cyverse.org/dav/iplant/commons/cyverse_curated/Gillan_et_al_RAMA_2019/raw_images/Phantom_images_plot4_28Sept2016/DJI_0011.MP4
+---?video=https://data.cyverse.org/dav-anon/iplant/commons/cyverse_curated/Gillan_et_al_RAMA_2019/raw_images/Phantom_images_plot4_28Sept2016/DJI_0011.MP4
 
 @snap[south span-100 text-center text-white]
-## Processing Large sUAS datasets on HPC and data hosting on Cloud
-@snapend
+## ~Fire~ Technology is a good servant, but a bad master
 
 ---
+
+# About me
+
+- NPS Forestry technician 2002-2005
+- USFS Fire Management Specialist 2008-2013
+
+- Watershed Managment MS & PhD
+- Speciality in GIS and Forest Disturbance Dynamics
+
+- Research Assistant Professor of Geoinformatics at UA
+
+---
+
+# Briefing
+
+- How technology can impact your job on a project fire
+  - before
+  - during
+  - after
+
+---
+
+# Think about
+
+- How technology can make your 
+      job easier?
+      people safer?
+- How can technology help us create healthier, more resilient forests?
+
+- How to avoid technology making your life harder
+- How to avoid the dangers of overly relying on a technology 
+
+---
+
+## Big Data & Fourth Industrial Revolution
+
+- Mobile apps
+- Communication
+- Vizualizaiton
+
+---
+
+# Act 1: Before the Fire
+
+---
+
+## 
+
+---
+
+# Act 2:During a Fire
+
+---
+
+## RX 
+
+---
+
+https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
+
+---
+
+## Project Fires
+
+---
+
+## ArcGIS Pro, Survey 123
+
+---
+
+## Open Source GIS
+
+QGIS
+
+---
+
+## Cell Phones & GPS
+
+- communication
+- Weather visualization
+- Real time fire progression maps
+- Location data
+
+- inReach
+
+---
+
+## 
+
+---
+
+# Act 3: After a Fire
+
+---
+
+## sUAS Use Case: Camp Fire 2018
+
+---
+
+## BAER
+
+---
+
+
+---
+
+# Act 4: Before the Next Fire
+
+---
+
+## Next Gen 911
+
+---
+
+## Fuels Monitoring
+
+### sUAS SfM
+
+---
+
+### lidar
+
+---
+
+# After Action Review
+
+What was the plan
+
+What did I talk about?
+
+What did you learn?
+
+What could I do better next time?
 
 @snap[west span-50 text-green]
 @css[](This talk **IS** for you if you are )
