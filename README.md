@@ -1,44 +1,32 @@
 # gis-day-suas
 
-GitPitch talk to the 2019-11-13 GIS Day at UA Libraries
+GitPitch talk to the 2020-01-14 at NAFRI for the M580 
 
-Start presentation: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/gis-day-suas/master) 
+Start presentation: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/m580/master) 
 
-## Date: 2019-11-13
+## Date: 2020-01-14
 
-## Location: [GIS Day](https://libguides.library.arizona.edu/GIS/GISDay2019), University of Arizona, Tucson, AZ
+## Location: [NAFRI](https://www.nafri.gov/), Tucson, AZ
 
 ## Presenter: [Tyson Lee Swetnam](http://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
 # Other useful resource links
 
-## High Performance Computing at UA
+## FAA Drone Zone
+https://www.faa.gov/uas/ 
 
-[University Information Technology Service HPC Site](https://it.arizona.edu/service/high-performance-computing)
+## Camp Fire
+Butte County sUAS Campaign: https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb3960a48c096ed910c640a30b3 
 
-[Confluence Wiki](https://public.confluence.arizona.edu/display/UAHPC)
+
+## ArcGIS Pro
+https://www.esri.com/training/catalog/5d23d5d41a285209a5dd7fe1/introduction-to-arcgis-pro-for-wildfire-gis-specialists/
 
 ## Agisoft Metashape
-
 [http://www.agisoft.com/](http://www.agisoft.com/)
 
 ### Metashape Python Scripts
-
 [Agisoft on Github](https://github.com/agisoft-llc)
 
 ## OpenDroneMap
-
 [https://www.opendronemap.org/](https://www.opendronemap.org/)
-
-## Meetups
-
-[Coffe and Code](https://www.meetup.com/ResBazAZ/events/jjhjhqyzgbnc/)
-
-[Hacky Hour](https://www.meetup.com/ResBazAZ/events/mlvrdqyzhbvb/)
-
-
-## CyVerse
-
-[https://cyverse.org](https://cyverse.org)
-
-[Learning Center](https://learning.cyverse.org)
