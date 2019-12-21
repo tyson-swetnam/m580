@@ -62,11 +62,26 @@
 
 ---
 
+@snap[north-east span-33 text-center]
+[@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png)](https://www.nwcg.gov/sites/default/files/publications/pms515.pdf)
+@snapend 
+
+@snap[north-west span-33 text-center]
+flying sUAS during a fire
+@snapend
+
+---
 https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
 
 ---
 
 ## Project Fires
+
+---
+
+## sUAS
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png
 
 ---
 
