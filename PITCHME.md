@@ -1,42 +1,46 @@
----?video=https://data.cyverse.org/dav-anon/iplant/commons/cyverse_curated/Gillan_et_al_RAMA_2019/raw_images/Phantom_images_plot4_28Sept2016/DJI_0011.MP4
+---?color=linear-gradient(80deg, black, #567AD2)
 
 @snap[south span-100 text-center text-white]
-## ~~Fire~~ Technology is a good servant, but a bad master
+# _~~Fire~~ Technology_ is a good servant, but a bad master
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # About me
 
-- NPS Forestry technician 2002-2005
-- USFS Fire Management Specialist 2008-2013
+  - NPS Forestry technician 2002-2005
+  - USFS Fire Management Specialist 2008-2013
+  - Watershed Managment MS & PhD
+  - Research Assistant Professor of Geoinformatics at UA
 
-- Watershed Managment MS & PhD
-- Speciality in GIS and Forest Disturbance Dynamics
-
-- Research Assistant Professor of Geoinformatics at UA
-
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # Briefing
 
-- How technology can impact your job on a project fire
+How technology affects YOU 
+
   - before
   - during
   - after
 
----
+Rx & unplanned fires
 
-# Think about
+---?color=linear-gradient(80deg, black, #567AD2)
 
-- How technology can make your 
-      job easier?
-      people safer?
-- How can technology help us create healthier, more resilient forests?
+# Stuff to think about
 
-- How to avoid technology making your life harder
-- How to avoid the dangers of overly relying on a technology 
+How technology can 
 
----
+     - make your job easier?
+     - people safer?
+     - create healthier, more resilient forests?
+
+How technology can 
+
+   - make your life harder
+   
+How to avoid the dangers of overly relying on a technology 
+
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## Big Data & Fourth Industrial Revolution
 
@@ -44,23 +48,33 @@
 - Communication
 - Vizualizaiton
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
+
+# Remember
+
+Technology is like milk (you want it fresh)
+
+Software is like wine (aged is a good thing)
+
+Configuration are like taxes (you cannot avoid them)
+
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # Act 1: Before the Fire
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## 
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # Act 2:During a Fire
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## RX 
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 @snap[north-east span-33 text-center]
 [@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png)](https://www.nwcg.gov/sites/default/files/publications/pms515.pdf)
@@ -70,30 +84,32 @@
 flying sUAS during a fire
 @snapend
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
+
 https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## Project Fires
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## sUAS
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## ArcGIS Pro, Survey 123
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## Open Source GIS
 
 QGIS
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
+
 
 ## Cell Phones & GPS
 
@@ -104,26 +120,29 @@ QGIS
 
 - inReach
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## 
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # Act 3: After a Fire
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## sUAS Use Case: Camp Fire 2018
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
 ## BAER
 
----
+---?color=linear-gradient(80deg, black, #567AD2)
 
+## Data are valuable
 
----
+Example: 1937 Aerial Photography are still in use
+
+---?color=linear-gradient(80deg, black, #567AD2)
 
 # Act 4: Before the Next Fire
 
