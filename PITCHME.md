@@ -1,7 +1,7 @@
 ---?video=https://data.cyverse.org/dav-anon/iplant/commons/cyverse_curated/Gillan_et_al_RAMA_2019/raw_images/Phantom_images_plot4_28Sept2016/DJI_0011.MP4
 
 @snap[south span-100 text-center text-white]
-## ~Fire~ Technology is a good servant, but a bad master
+## ~~Fire~~ Technology is a good servant, but a bad master
 
 ---
 
