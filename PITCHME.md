@@ -1,7 +1,7 @@
 ---?color=linear-gradient(80deg, black, #567AD2)
 
 @snap[south span-100 text-center text-white]
-# _~~Fire~~ Technology_ is a good servant, but a bad master
+_~~Fire~~ Technology_ is a good servant, but a bad master
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
