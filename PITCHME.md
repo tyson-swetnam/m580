@@ -1,11 +1,11 @@
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-@snap[south span-100 text-center text-white]
-_~~Fire~~ Technology_ is a good servant, but a bad master
+@snap[midpoint span-100 text-center text-white]
+### _~~Fire~~ Technology_ is a good servant, but a bad master
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-# About me
+## About me
 
   - NPS Forestry technician 2002-2005
   - USFS Fire Management Specialist 2008-2013
@@ -14,7 +14,7 @@ _~~Fire~~ Technology_ is a good servant, but a bad master
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-# Briefing
+## Briefing
 
 How technology affects YOU 
 
@@ -26,22 +26,15 @@ Rx & unplanned fires
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-# Stuff to think about
+## Stuff to think about
 
-How technology can 
+How technology can:
 
-     - make your job easier?
-     - people safer?
-     - create healthier, more resilient forests?
-
-How technology can 
+   - make your job easier
+   - make people safer
+   - create healthier, more resilient forests
 
    - make your life harder
-   
-How to avoid the dangers of overly relying on a technology 
-
----?color=linear-gradient(80deg, black, #567AD2)
-
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
