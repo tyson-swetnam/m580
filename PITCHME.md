@@ -42,11 +42,6 @@ How to avoid the dangers of overly relying on a technology
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-## Big Data & Fourth Industrial Revolution
-
-- Mobile apps
-- Communication
-- Vizualizaiton
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
@@ -64,9 +59,20 @@ Configuration are like taxes (you cannot avoid them)
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
+## Big Data & Fourth Industrial Revolution
+
+- Mobile apps
+- Communication
+- Vizualizaiton
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
 ## Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters
 
+@snap[south span-100 text-center font-04]
+Baylis, P. & Boomhower, J (2019) Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 12/2019 NBER Working Paper No. w26550. Available at SSRN: https://ssrn.com/abstract=3504434
 https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
+@snapend
 
 - Insurance Adjusters & Actuarials 
 
@@ -80,6 +86,8 @@ https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
+---?color=linear-gradient(80deg, black, #567AD2)
+
 @snap[north-east span-33 text-center]
 [@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png)](https://www.nwcg.gov/sites/default/files/publications/pms515.pdf)
 @snapend 
@@ -90,7 +98,13 @@ flying sUAS during a fire
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
+@snap[north-west span-33 text-center]
+sUAS for ignitions
+@snapend
+
+@snap[north-east span-33 text-center]
+[@img[span-100](https://www.armytimes.com/resizer/eWUL5E8Phwef4SORk0A_qunNceg=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/K5ZILJSSJNBCFI5XOOK7MXOLW4.jpeg)](https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/)
+@snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
