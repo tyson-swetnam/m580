@@ -60,9 +60,11 @@ Configuration are like taxes (you cannot avoid them)
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
+@snap[north span-100 text-center]
 ## Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters
+@snapend
 
-@snap[south span-100 text-center font-04]
+@snap[south span-100 text-center text-04]
 Baylis, P. & Boomhower, J (2019) Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 12/2019 NBER Working Paper No. w26550. Available at SSRN: https://ssrn.com/abstract=3504434
 https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
 @snapend
@@ -188,50 +190,4 @@ What did you learn?
 
 What could I do better next time?
 
-@snap[west span-50 text-green]
-@css[](This talk **IS** for you if you are )
-@ol[]
-- flying sUAS 
-- processing sUAS data
-- mapping or doing analysis with sUAS data products
-@olend
-@snapend
-
-@snap[east span-50 text-yellow]
-@css[](If this talk **is NOT** for you)
-@ol[]
-- pretend you know this stuff already
-- intimidate others by nodding thoughtfully
-- count memes, quiz at the end
-@olend
-@snapend
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@snap[north-west span-33]
-<img src="https://i.imgur.com/etrjhje.jpg" height="100">
-@snapend
-
-@snap[west span-33 fragment]
-@box[bg-green text-white rounded box-padding](Pro # Widely Used, Network & HPC)
-@snapend
-
-@snap[south-west span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # Training, $$$ floating licenses)
-@snapend
-
-@snap[north span-33]
-<img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" height="100">
-@snapend
-
-@snap[midpoint span-33 fragment]
-@box[bg-green text-white rounded box-padding](Pro # Ready to use, ESRI integration)
-@snapend
-
-@snap[south span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # less scalable, $$$ for Cloud)
-@snapend
-
-@snap[north-east]
-<img src="https://pbs.twimg.com/profile_images/578011545969389568/qrV14aGg.png" height="100">
-@snapend
+---
