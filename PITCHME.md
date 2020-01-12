@@ -14,11 +14,22 @@ Why am I here?
 <img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="450">
 @snapend
 
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[midpoint span-100 font-montserrat text-14 text-bold]
+@ul
+- Big Data
+- Containers
+- Cloud Computing
+- sUAS (drones)
+@ulend
+@snapend
+
 @snap[midpoint span-100 fragment]
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="730"> 
 @snapend
 
-@snap[south span-100 font-montserrat text-16 text-black text-bold fragment]
+@snap[south span-100 text-18 text-black text-bold fragment]
 ALL THE THINGS
 @snapend
 
@@ -99,7 +110,7 @@ Research Assistant Professor Geoinformatics
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-<span style="font-size: 150%; color:#FFFFFF"> Things you *need* to ~~know how to do~~ _think about_: </span>
+<span style="font-size: 150%; color:#FFFFFF"> Things you *need* to ~~know how to do~~ think about: </span>
 
 <span style="font-size: 100%; color:#FFFF00"> Data Intensive Science </span> <!-- .element: class="fragment" -->
 
@@ -219,7 +230,7 @@ Technology is like **milk** (you want it fresh)
 
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
 
-<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+<img src="https://i.pinimg.com/originals/4c/f4/21/4cf421fb9752221d20405e249f3ebab2.jpg" width="700">
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @snap[midpoint span-100 font-montserrat text-white]
@@ -301,7 +312,7 @@ Would you believe this is where you're going to be in two years?
 @ulend
 @snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
@@ -309,7 +320,7 @@ Would you believe this is where you're going to be in two years?
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north span-100]
 Strengths and Weaknesses of Linux 
@@ -340,11 +351,11 @@ Strengths and Weaknesses of Linux
 @box[bg-orange text-white rounded box-padding](Con # Tech Support @fab[fa-ban fa-sm])
 @snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 Containers
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 *different OS + third party software + updates/upgrades + redeployment* → 
  <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
@@ -353,13 +364,13 @@ Containers
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
-Containerize software, run it anywhere. 
+## Containerize software run it anywhere. 
 
-<img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
+<img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 60%, white)
 
 ## Why Containerize?
 
@@ -368,16 +379,20 @@ Containerize software, run it anywhere.
 - Reproducibility is hard across platforms <!-- .element: class="fragment" -->
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
 
-<img src="assets/imagery/vertical_large.png" height="150"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" height="150">
+<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/docker-logo.png" height="150"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" height="150">
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?image=assets/imagery/FOSS.jpeg
+
+---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ### Building the "best" containers, workflows, or pipelines takes TIME & EXPERIENCE
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 # The FAIR Data Principles
 
@@ -407,7 +422,7 @@ Containerize software, run it anywhere.
 NWCG Standards for Fire Unmanned Aircraft Systems Operations
 @snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west span-33 text-center]
 sUAS for ignitions
@@ -417,29 +432,32 @@ sUAS for ignitions
 https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
 @snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
-## Project Fires
+---?image=https://media.giphy.com/media/ncsEqTn98T1GHVq62k/giphy.gif
+<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?image=assets/imagery/hdr_low.png
 
-## sUAS
+---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
+
+## sUAS are AWESOME!
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## Fire uses of sUAS
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## ArcGIS Pro, Survey 123
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## Open Source GIS vs ESRI 
 
----?color=linear-gradient(80deg, black, #567AD2)
-
-https://twitter.com/bi0m3trics/status/1215312498439553024
-
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## Cell Phones & GPS
 
@@ -450,92 +468,113 @@ https://twitter.com/bi0m3trics/status/1215312498439553024
 
 - inReach
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 # Act 3: After a Fire
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## sUAS Use Case: Camp Fire 2018
 
 https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb3960a48c096ed910c640a30b3 
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## BAER
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## Data are valuable
 
 Example: 1937 Aerial Photography are still in use
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
 # Computational Notebooks
 
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-- Mobile & Edge
-- Scientific Communication
-- Cloud Computing
-- Data Visualizaiton
+@snap[west h3-white span-50]
+### @fa[twitter] Descartes Labs fire tracking
+@snapend
 
----
+@snap[east span-50]
+  @tweet[https://twitter.com/DescartesLabs/status/1161037648615677952]
+@snapend
 
-# Descartes Labs
+---?color=linear-gradient(80deg, gray 10%, black)
 
----
+https://docs.descarteslabs.com/guides/raster.html?highlight=wildfire
 
-## Twitter Bot
+https://viewer.descarteslabs.com/
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[west h3-white span-50]
+### @fa[twitter] Descartes Labs twitter bot
+@snapend
+
+https://medium.com/descarteslabs-team/wildfiresignal-tracking-system-now-live-on-twitter-ad308d032fee
+
+https://storage.googleapis.com/dl-fires/media/nnm/nnm.html
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ## Fuels Monitoring
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
 
 Climate Engine 
 https://clim-engine.appspot.com/climateEngine
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
 
 https://earth.nullschool.net/
----
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ### sUAS SfM
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
 
 ### lidar
 
+---?color=linear-gradient(80deg, gray 10%, black)
 
----
+FUSION or lidR
 
-FUSION vs lidR
+---?color=linear-gradient(80deg, gray 10%, black)
 
----
+@snap[west h3-white span-50]
+### @fa[twitter] Andrew Sanchez-Meador on lidR
+@snapend
+
+@snap[east span-50]
+  @tweet[https://twitter.com/bi0m3trics/status/1215312498439553024]
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 PDAL Entwine
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
 
 3DEP
 
 https://usgs.entwine.io/
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
+
+CloudCompare
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 CyVerse
-
----
-
-
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
