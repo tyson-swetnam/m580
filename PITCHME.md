@@ -1,87 +1,403 @@
----?color=linear-gradient(80deg, black, #567AD2)
+---?image=https://media2.giphy.com/media/1Je1gUR3g6We4/source.gif
 
-@snap[midpoint span-100 text-center text-white]
-### _~~Fire~~ Technology_ is a good servant, but a bad master
+@snap[midpoint span-100 text-center text-yellow text-bold text-20 font-montserrat]
+_~~Fire~~ **Technology**_ is a good servant, but a bad master
+@snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+---?color=linear-gradient(80deg, gray 10%, black)
 
-## About me
+@snap[north span-100 font-montserrat text-16 text-bold]
+Why am I here?
+@snapend
 
-  - NPS Forestry technician 2002-2005
-  - USFS Fire Management Specialist 2008-2013
-  - Watershed Managment MS & PhD
-  - Research Assistant Professor of Geoinformatics at UA
+@snap[midpoint span-100]
+<img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="450">
+@snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+@snap[midpoint span-100 fragment]
+<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="730"> 
+@snapend
 
-## Briefing
+@snap[south span-100 font-montserrat text-16 text-black text-bold fragment]
+ALL THE THINGS
+@snapend
 
-How technology affects YOU 
+---?color=linear-gradient(80deg, gray 10%, black)
 
-  - before
-  - during
-  - after
+@snap[north span-100 font-montserrat text-16 text-bold]
+About me
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/US-NationalParkService-Logo.svg/1000px-US-NationalParkService-Logo.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_the_United_States_Forest_Service.svg/941px-Logo_of_the_United_States_Forest_Service.svg.png" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arizona_Wildcats_logo.svg/1108px-Arizona_Wildcats_logo.svg.png" height="200">
+@snapend
 
-Rx & unplanned fires
+@snap[south-west span-33 font-montserrat text-06 fragment]
+NPS Forestry technician 2002-2005
+@snapend
 
----?color=linear-gradient(80deg, black, #567AD2)
+@snap[south span-33 font-montserrat text-06 fragment]
+USFS Fire Management Specialist 2008-2013 
+@snapend
 
-## Stuff to think about
+@snap[south-east span-33 font-montserrat text-06 fragment]
+Research Assistant Professor Geoinformatics  
+@snapend 
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<span style="font-size: 150%; color:#FF0000"> _circa_ 2008 A.D. </span>
+
+<img src="https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/c/9e/c9e4b766-4355-5659-9e1f-fcb982dc91b5/597bea45d1884.image.jpg" height="250">
+
+<span style="font-size: 100%; color:#FFFF00"> PhD project: estimate landscape scale forest C </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFFFF; font-family: times-roman "> "Hey here's some lidar data, good luck!" </span> <!-- .element: class="fragment" --> 
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<span style="font-size: 150%; color:#FF0000"> 2008 Challenges </span> 
+
+<span style="font-size: 100%; color:#FFFF00"> → Access to data sets </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Software to work with the data </span> <!-- .element: class="fragment" --> 
+
+<span style="font-size: 100%; color:#FFFF00"> → Processing and data storage </span> <!-- .element: class="fragment" --> 
+
+<img src="https://media.giphy.com/media/tJpR7sRijUo9vAUu1j/giphy.gif " height="250">
+
+---?color=linear-gradient(80deg, gray 10%, black)
+@snap[north span-100]
+<span style="font-size: 150%; color:#FF0000"> _circa_ 2020 A.D. </span>
+
+<img src="https://media.giphy.com/media/bSv4dJP24GwLtaRkbD/giphy.gif" height="150"> 
+@snapend
+
+@snap[south-west span-50]
+<span style="font-size: 100%; color:#FFFF00"> → Know how to code </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Comfortable working with big data </span> <!-- .element: class="fragment" -->
+@snapend
+
+@snap[south-east span-50]
+<span style="font-size: 100%; color:#FFFFFF"> → Endless data streams: 3DEP, NEON, GEE, NASA EOS, Planet, sUAS </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFFFF"> → limitless processing capability with cloud and HPC </span> <!-- .element: class="fragment" -->
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<span style="font-size: 150%; color:#FF0000"> Challenges Today </span> 
+
+<img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="200"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="200"> 
+
+<span style="font-size: 100%; color:#FFFF00"> → Education & Training (not enough Data Scientists) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Specializing (No one person can do all these things) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
+    
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<span style="font-size: 150%; color:#FFFFFF"> Things you *need* to ~~know how to do~~ _think about_: </span>
+
+<span style="font-size: 100%; color:#FFFF00"> Data Intensive Science </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Data Management Systems (DMS) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems (WMS) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> FAIR Data Principles </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Research Objects </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) & Edge Computing </span> <!-- .element: class="fragment" -->
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# Act 1: Data Intensive Discovery
+
+---?image=https://media.giphy.com/media/eexxV3Q2N485XZO0VS/giphy.gif
+
+## "The Fourth Industrial Revolution"
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-33 text-06]
+#### 1st Revolution
+Mechanization, steam and water power 
+<img src="https://media.giphy.com/media/9MIl1iPxLhfzQecFdW/giphy.gif" height="150">
+@snapend
+
+@snap[north span-33 fragment text-06]
+#### 2nd Revolution
+Mass production and electricity 
+<img src="https://media.giphy.com/media/fwfbJvRNHb5sI/giphy.gif" height="180"> 
+@snapend
+
+@snap[south-west span-33 fragment text-06]
+#### 3rd Revolution
+Electronics, automation 
+<img src="https://media.giphy.com/media/3TcM6usOIc2MU/source.gif" height="150"> 
+@snapend
+
+@snap[south-east span-50 fragment text-06 ]
+#### 4th Revolution
+Cyberinfrastructure & Artificial Intelligence & Big Data
+<img src="https://media.giphy.com/media/87kcVw4PjxGr6/source.gif" height="200"> 
+@snapend
+
+@snap[north-east span-50 fragment]
+<img src="https://media.giphy.com/media/RibXrbDgN4QVQ5UFuk/giphy.gif" height="200">
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 font-montserrat text-16 text-yellow text-bold]
+**More Stuff to think about**
 
 How technology can:
+@snapend
 
+@snap[midpoint span-100 font-montserrat fragment text-center]
+@ul
    - make your job easier
-   - make people safer
    - create healthier, more resilient forests
-
-   - make your life harder
-
----?color=linear-gradient(80deg, black, #567AD2)
-
-# Remember
-
-Technology is like milk (you want it fresh)
-
-Software is like wine (aged is a good thing)
-
-Configuration are like taxes (you cannot avoid them)
-
----?color=linear-gradient(80deg, black, #567AD2)
-
-# Act 1: Before the Fire
-
----?color=linear-gradient(80deg, black, #567AD2)
-
-## Big Data & Fourth Industrial Revolution
-
-- Mobile apps
-- Communication
-- Vizualizaiton
-
----?color=linear-gradient(80deg, black, #567AD2)
-
-@snap[north span-100 text-center]
-## Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters
+   - _**make your life harder**_
+@ulend
 @snapend
 
-@snap[south span-100 text-center text-04]
-Baylis, P. & Boomhower, J (2019) Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 12/2019 NBER Working Paper No. w26550. Available at SSRN: https://ssrn.com/abstract=3504434
-https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 font-montserrat text-15 text-blue text-bold]
+Remember
 @snapend
 
-- Insurance Adjusters & Actuarials 
+@snap[west span-33 font-montserrat text-yellow fragment text-bold text-center]
+Technology is like **milk** (you want it fresh)
+@fa[blender text-white]
+@img[span-100](https://thumbs.gfycat.com/WholeBeautifulHackee-size_restricted.gif)
+@snapend
+
+@snap[midpoint span-33 font-montserrat text-pink fragment text-bold text-center]
+**Software is like** wine **(aged is a good thing)**
+@fa[wine-bottle text-pink]
+@img[span-100](https://www.esri.com/news/arcnews/summer01articles/summer01gifs/p6p1.jpg) 
+@snapend
+
+@snap[east span-33 font-montserrat text-green fragment text-bold text-center]
+**Configurations are like** taxes **(you cannot avoid them)**
+@fa[dollar-sign text-green]
+@img[span-100](https://media1.tenor.com/images/af98563d72d9a1c1500dc3bbb46a796a/tenor.gif?itemid=7272048)
+@ulend
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+@snap[west span-50]
+@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DIKW_Pyramid.svg/1200px-DIKW_Pyramid.svg.png)
+@snapend
+
+@snap[south-east span-50 text-08 fragment font-montserrat text-white] 
+@box[](Data # Unstructured, Huge, High Risk to Decision Making) 
+@snapend
+
+@snap[east span-50 text-08 fragment font-montserrat text-white] 
+@box[](Knowledge # Understanding, Ask Questions, Draw inferences)
+@box[](Information # Structured, Searchable, Metadata) 
+@snapend
+
+@snap[north-east span-50 text-08 fragment font-montserrat text-white] 
+@box[](Wisdom # Low Risk to Decision Making) 
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+
+**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
+
+<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+
+---?color=linear-gradient(80deg, gray 10%, black)
+@snap[midpoint span-100 font-montserrat text-white]
+Vertical Data Integration
+@img[span-80](assets/imagery/hdr_low.png)
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# Act 2: Big Data
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 text-white font-montserrat]
+Working with big data yet?
+@snapend
+
+@snap[midpoint span-100]
+<img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
+@snapend
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## Working locally vs the cloud vs HPC
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 font-montserrat text-15 text-white text-bold]
+Maybe, this is the place you're in right now
+@snapend
+
+@snap[midpoint span-100]
+<img src="https://media.giphy.com/media/zfkihHAD7ehtm/giphy.gif" height="300">
+@snapend
+
+@snap[east span-33]
+<img src="http://www.geo.utexas.edu/courses/371c/Labs/Lab2/images/geographic.jpg" height="300">
+@snapend
+
+@snap[west span-33]
+<img src="https://www.freepngimg.com/thumb/technology/50002-3-dell-laptop-images-png-file-hd.png" height="200">
+@snapend
+
+---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
+@snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is a part of the talk <!-- .element: class="fragment" -->@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 font-montserrat text-15 text-white text-bold]
+Would you believe this is where you're going to be in two years?
+@snapend
+
+@snap[south-east span-50]
+<img src="https://miro.medium.com/max/2000/1*31XAuFgaeln-mrjxxRzdxA.gif" height="350">
+@snapend
+
+@snap[south-west span-50]
+<img src="https://cyverse-neon-data-institute-2018.readthedocs-hosted.com/en/latest/_images/Cyverse_data_services.png" height="400">
+@snapend
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[midpoint span-100]
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="600">
+@snapend
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+- Basics of Linux
+- Version Control with Git
+- Internal Group Communication 
+- External Public Communication
+- Working with Markdown based Websites and Documentation
+@ulend
+@snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-# Act 2:During a Fire
+##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
+
+<span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
+
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-## RX 
+@snap[north span-100]
+Strengths and Weaknesses of Linux 
+@fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x] @fab[rebel fa-2x]
+@snapend
+
+@snap[west span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Open Source [FREE!])
+@snapend
+
+@snap[south-west span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Different)
+@snapend
+
+@snap[midpoint span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Almost infinite customization)
+@snapend
+
+@snap[south span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Dependencies)
+@snapend
+
+@snap[east span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Works in Windows @fab[windows fa-sm] )
+@snapend
+
+@snap[south-east span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Tech Support @fab[fa-ban fa-sm])
+@snapend
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
+Containers
+
 ---?color=linear-gradient(80deg, black, #567AD2)
+
+*different OS + third party software + updates/upgrades + redeployment* → 
+ <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
+ 
+<img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
+
+ <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
+Containerize software, run it anywhere. 
+
+<img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
+## Why Containerize?
+
+- Dependencies turn into wicked problems <!-- .element: class="fragment" -->
+- Compiling software is sloooowww <!-- .element: class="fragment" -->
+- Reproducibility is hard across platforms <!-- .element: class="fragment" -->
+- Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
+
+<img src="assets/imagery/vertical_large.png" height="150"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" height="150">
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
+### Building the "best" containers, workflows, or pipelines takes TIME & EXPERIENCE
+
+<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
+
+
+---?color=linear-gradient(80deg, black, #567AD2)
+
+# The FAIR Data Principles
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# The Research Object
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# Free and Open Source Software
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# Version Control
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+# Containers
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west span-33 text-center]
 [@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png)](https://www.nwcg.gov/sites/default/files/publications/pms515.pdf)
@@ -98,7 +414,6 @@ sUAS for ignitions
 @snapend
 
 @snap[north-east span-33 text-center]
-@img[span-100](https://www.armytimes.com/resizer/eWUL5E8Phwef4SORk0A_qunNceg=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/K5ZILJSSJNBCFI5XOOK7MXOLW4.jpeg)
 https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
 @snapend
 
@@ -118,13 +433,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoo
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-## Open Source GIS
-
-QGIS
+## Open Source GIS vs ESRI 
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-## Google Earth Engine
+https://twitter.com/bi0m3trics/status/1215312498439553024
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
@@ -149,6 +462,8 @@ QGIS
 
 ## sUAS Use Case: Camp Fire 2018
 
+https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb3960a48c096ed910c640a30b3 
+
 ---?color=linear-gradient(80deg, black, #567AD2)
 
 ## BAER
@@ -161,16 +476,36 @@ Example: 1937 Aerial Photography are still in use
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
-# Act 4: Before the Next Fire
+# Computational Notebooks
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+- Mobile & Edge
+- Scientific Communication
+- Cloud Computing
+- Data Visualizaiton
 
 ---
 
-## Next Gen 911
+# Descartes Labs
+
+---
+
+## Twitter Bot
 
 ---
 
 ## Fuels Monitoring
 
+---
+
+Climate Engine 
+https://clim-engine.appspot.com/climateEngine
+
+---
+
+https://earth.nullschool.net/
 ---
 
 ### sUAS SfM
@@ -179,7 +514,41 @@ Example: 1937 Aerial Photography are still in use
 
 ### lidar
 
+
 ---
+
+FUSION vs lidR
+
+---
+
+PDAL Entwine
+
+---
+
+3DEP
+
+https://usgs.entwine.io/
+
+---
+
+CyVerse
+
+---
+
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 text-center]
+## Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters
+@snapend
+
+@snap[south span-100 text-center text-03]
+Baylis, P. & Boomhower, J (2019) Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 12/2019 NBER Working Paper No. w26550. Available at SSRN: https://ssrn.com/abstract=3504434
+https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 # After Action Review
 
