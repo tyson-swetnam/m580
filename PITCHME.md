@@ -529,6 +529,54 @@ https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-fo
 
 <iframe width="100%" height="800px" src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a8409705e469419aa687510ec0630fed" frameborder="0" scrolling="no"></iframe>
 
+---?color=linear-gradient(80deg, black 10%, gray)
+
+@snap[north-west span-33]
+<img src="https://i.imgur.com/etrjhje.jpg" width="350">
+@snapend
+
+@snap[west span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Widely Used, Network & HPC)
+@snapend
+
+@snap[south-west span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Training, $$$ floating licenses)
+@snapend
+
+@snap[north span-33 align-top]
+<img src="https://images.ctfassets.net/go54bjdzbrgi/1ingG3f6HsI6i2qIuYe2cc/f0b4a12cb3a7ba6df067577009d32c3f/Pix4D_LOGO_MAIN_1024.png" width="250">
+@snapend
+
+@snap[midpoint span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Ready to use, ESRI integration)
+@snapend
+
+@snap[south span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # less scalable, $$$ for Cloud)
+@snapend
+
+@snap[north-east]
+<img src="https://pbs.twimg.com/profile_images/578011545969389568/qrV14aGg.png" width="200">
+@snapend
+
+@snap[east span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Free, nice interface)
+@snapend
+
+@snap[south-east span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # less accurate, less scalable)
+@snapend
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+@snap[west h3-white span-50]
+### @fa[twitter] a recent informal survey of community members
+@snapend
+
+@snap[east span-50]
+  @tweet[https://twitter.com/tommaso_jucker/status/1189847902673342464]
+@snapend
+
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west span-33 text-center]
