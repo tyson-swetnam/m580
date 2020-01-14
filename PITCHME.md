@@ -328,8 +328,40 @@ Would you believe this is where you're going to be tomorrow?
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="600">
 @snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
+---?color=linear-gradient(80deg, white 10%, gray)
 
+@snap[north-west span-50 text-black]
+Cost of computing
+@snapend
+
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["Your Laptop", "Workstation", "older HPC","newish HPC", " AWS EC2 g4dn.16xlarge"],
+  "datasets": [
+   {
+    "data":[4,16,28,96,64],
+    "label":"CPU Cores",
+    "backgroundColor":"green"
+   },
+   {
+    "data":[16,128,168,256,256],
+    "label":"CPU RAM (GB)",
+    "backgroundColor":"rgba(120,120,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+
+@snap[north-east fragment font-montserrat text-06]
+node = $4.35 / hr 
+10 nodes = $43.52 / hr 
+100 nodes = $435.20 / hr
+@snapend
 
 ---?color=linear-gradient(80deg, gray 50%, white)
 
@@ -484,6 +516,21 @@ https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb39
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+@snap[north-west span-50 text-center]
+sUAS for ignitions
+<img src="https://droneamplified.com/wp-content/uploads/2018/01/Drone_clipped.png" height="300">
+@snapend
+
+@snap[north-east span-50 text-center]
+https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<iframe width="100%" height="800px" src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a8409705e469419aa687510ec0630fed" frameborder="0" scrolling="no"></iframe>
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
 @snap[north-west span-33 text-center]
 [@img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png)](https://www.nwcg.gov/sites/default/files/publications/pms515.pdf)
 @snapend 
@@ -503,16 +550,6 @@ NWCG Standards for Fire Unmanned Aircraft Systems Operations
 - Crew Movements
 
 - inReach
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north-west span-33 text-center]
-sUAS for ignitions
-@snapend
-
-@snap[north-east span-33 text-center]
-https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-forest-fire-fighting-drones/
-@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -594,11 +631,6 @@ https://clim-engine.appspot.com/climateEngine
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 https://earth.nullschool.net/
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-<iframe width="100%" height="800px" src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a8409705e469419aa687510ec0630fed" frameborder="0" scrolling="no"></iframe>
-
 
 ---?color=linear-gradient(80deg, gray 10%, white)
 
