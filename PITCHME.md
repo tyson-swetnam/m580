@@ -14,13 +14,33 @@ Why am I here?
 <img src="https://media.giphy.com/media/zOSxTrEnUmHIY/giphy.gif" height="450">
 @snapend
 
+---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
+
+@snap[north span-100 text-center] 
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
+@fa[quote-graphql font-montserrat text-white text-11](NAFRI m-580, Tucson AZ) 
+@fa[quote-graphql font-montserrat text-white text-09](January 14, 2020) 
+@fa[quote-graphql font-montserrat text-white text-09](Tyson L. Swetnam) 
+@snapend
+
+@snap[midpoint span-100 fragment]
+<img src="https://66.media.tumblr.com/a2efb7b25cb7b02a88fc5a88e7018851/tumblr_pllhrseoJY1xoyw8po3_r1_1280.gifv" height="600">
+@snapend
+
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[midpoint span-100 font-montserrat text-14 text-bold]
+@snap[east span-50 font-montserrat text-12 text-bold]
 @ul
-- Big Data
-- Containers
-- Cloud Computing
+- Cloud 
+- Containers  
+- Computational Notebooks @fa[jupyter]
+@ulend
+@snapend
+
+@snap[west span-50 font-montserrat text-12 text-bold]
+@ul
+- Internet of Things
+- Edge Computing
 - sUAS (drones)
 @ulend
 @snapend
@@ -97,39 +117,29 @@ Research Assistant Professor Geoinformatics
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-<span style="font-size: 150%; color:#FF0000"> Challenges Today </span> 
+<span style="font-size: 150%; color:#FF0000"> My Challenges Today </span> 
 
 <img src="https://media.giphy.com/media/kBIRGYDsEIoGk/giphy.gif" height="200"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="200"> 
 
 <span style="font-size: 100%; color:#FFFF00"> → Education & Training (not enough Data Scientists) </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> → Specializing (No one person can do all these things) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> → Finding folks with specialization (No one person can do all these things) </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> → Technology continues to advance at exponential rate </span> <!-- .element: class="fragment" -->
     
-
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-<span style="font-size: 150%; color:#FFFFFF"> Things you *need* to ~~know how to do~~ think about: </span>
+<span style="font-size: 150%; color:#FFFFFF"> Things you *need* to be thinking about ~~know how to do~~: </span>
 
-<span style="font-size: 100%; color:#FFFF00"> Data Intensive Science </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FFFF00"> Data Intensive Analysis </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#FFFF00"> Cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#FFFF00"> Data Management Systems (DMS) </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> Workflow Management Systems (WMS) </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> FAIR Data Principles </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> Research Objects </span> <!-- .element: class="fragment" -->
-
-<span style="font-size: 100%; color:#FFFF00"> Internet of Things (IoT) & Edge Computing </span> <!-- .element: class="fragment" -->
-
+<span style="font-size: 100%; color:#FFFF00"> Reproducible work </span> <!-- .element: class="fragment" -->
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Act 1: Data Intensive Discovery
+# Act 1: Data Intensive Analysis
 
 ---?image=https://media.giphy.com/media/eexxV3Q2N485XZO0VS/giphy.gif
 
@@ -165,19 +175,27 @@ Cyberinfrastructure & Artificial Intelligence & Big Data
 <img src="https://media.giphy.com/media/RibXrbDgN4QVQ5UFuk/giphy.gif" height="200">
 @snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
+---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png 
+
+---?color=linear-gradient(80deg, black 50%, gray)
 
 @snap[north span-100 font-montserrat text-16 text-yellow text-bold]
 **More Stuff to think about**
 
-How technology can:
+Software, data, & tech can:
 @snapend
 
-@snap[midpoint span-100 font-montserrat fragment text-center]
+@snap[south-west span-50 font-montserrat fragment text-13 text-green text-center]
 @ul
    - make your job easier
-   - create healthier, more resilient forests
-   - _**make your life harder**_
+   - help to create healthier, more resilient landscapes
+@ulend
+@snapend
+
+
+   @snap[east span-50 font-montserrat fragment text-orange text-16 text-center]
+@ul
+   - make your life harder 
 @ulend
 @snapend
 
@@ -238,9 +256,25 @@ Vertical Data Integration
 @img[span-80](assets/imagery/hdr_low.png)
 @snapend
 
+---?color=linear-gradient(80deg, white 10%, black)
+
+@snap[north span-100 font-montserrat text-black]
+Taking science to the edge
+@snapend
+
+<img src="/assets/imagery/cereus.png" height="700">
+
+
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Act 2: Big Data
+@snap[north span-100]
+## Act 2: Cyberinfrastructure
+@snapend
+
+@snap[midpoint span-100]
+@fab[windows fa-2x] @fab[r-project fa-2x] @fab[python fa-2x] @fab[docker fa-2x] @fab[slack fa-2x] @fab[apple fa-2x] @fab[github fa-2x] @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x] 
+@fab[rebel fa-2x] @fab[confluence fa-2x] @fab[jenkins fa-2x] @fab[empire fa-2x] @fab[meetup fa-2x] @fab[twitter fa-2x] @fab[stack-overflow fa-2x] 
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -252,11 +286,6 @@ Working with big data yet?
 <img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
 @snapend
 
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Working locally vs the cloud vs HPC
-
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north span-100 font-montserrat text-15 text-white text-bold]
@@ -264,7 +293,7 @@ Maybe, this is the place you're in right now
 @snapend
 
 @snap[midpoint span-100]
-<img src="https://media.giphy.com/media/zfkihHAD7ehtm/giphy.gif" height="300">
+<img src="https://media.giphy.com/media/ZJ6IOBmCaj5f2/giphy.gif" height="300">
 @snapend
 
 @snap[east span-33]
@@ -275,23 +304,23 @@ Maybe, this is the place you're in right now
 <img src="https://www.freepngimg.com/thumb/technology/50002-3-dell-laptop-images-png-file-hd.png" height="200">
 @snapend
 
+---?image=https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif
+
+## There is something wrong -- you've felt it your whole life
+
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
-@snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is a part of the talk <!-- .element: class="fragment" -->@snapend
+@snap[north text-smallcaps fragment span-100]
+Just kidding, this is a part of the talk 
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north span-100 font-montserrat text-15 text-white text-bold]
-Would you believe this is where you're going to be in two years?
+@snap[north-east span-40 font-montserrat text-13 text-white text-bold]
+Would you believe this is where you're going to be tomorrow?
+<a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=12f25023-b6b1-4f23-bbcc-49f0295da8c4&app-id=07e2b2e6-becd-11e9-b524-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> 
 @snapend
 
-@snap[south-east span-50]
-<img src="https://miro.medium.com/max/2000/1*31XAuFgaeln-mrjxxRzdxA.gif" height="350">
-@snapend
-
-@snap[south-west span-50]
-<img src="https://cyverse-neon-data-institute-2018.readthedocs-hosted.com/en/latest/_images/Cyverse_data_services.png" height="400">
-@snapend
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">From zero to science with <a href="https://twitter.com/NEON_sci?ref_src=twsrc%5Etfw">@NEON_sci</a> data in three minutes on <a href="https://twitter.com/CyVerseOrg?ref_src=twsrc%5Etfw">@CyVerseOrg</a> running R Studio and Shiny in the Discovery Environment data science workbench <a href="https://twitter.com/hashtag/NEONsummit2019?src=hash&amp;ref_src=twsrc%5Etfw">#NEONsummit2019</a> via <a href="https://twitter.com/danielslee51?ref_src=twsrc%5Etfw">@danielslee51</a> <a href="https://t.co/gIUCQjSgpb">https://t.co/gIUCQjSgpb</a> <a href="https://t.co/ed6hq4XQtj">https://t.co/ed6hq4XQtj</a> <a href="https://t.co/pf40DGvLnw">pic.twitter.com/pf40DGvLnw</a></p>&mdash; Tyson Lee Swetnam (@tswetnam) <a href="https://twitter.com/tswetnam/status/1184860693863882752?ref_src=twsrc%5Etfw">October 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -299,20 +328,10 @@ Would you believe this is where you're going to be in two years?
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="600">
 @snapend
 
-
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Basics of Linux
-- Version Control with Git
-- Internal Group Communication 
-- External Public Communication
-- Working with Markdown based Websites and Documentation
-@ulend
-@snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
+---?color=linear-gradient(80deg, gray 50%, white)
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
@@ -324,7 +343,7 @@ Would you believe this is where you're going to be in two years?
 
 @snap[north span-100]
 Strengths and Weaknesses of Linux 
-@fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x] @fab[rebel fa-2x]
+@fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x]
 @snapend
 
 @snap[west span-33 fragment]
@@ -353,10 +372,6 @@ Strengths and Weaknesses of Linux
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-Containers
-
----?color=linear-gradient(80deg, gray 10%, black)
-
 *different OS + third party software + updates/upgrades + redeployment* → 
  <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
  
@@ -366,13 +381,14 @@ Containers
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-## Containerize software run it anywhere. 
+## Containerize software run it anywhere 
+@fab[docker fa-4x]
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
 
 ---?color=linear-gradient(80deg, gray 60%, white)
 
-## Why Containerize?
+## Why do we use Containers?
 
 - Dependencies turn into wicked problems <!-- .element: class="fragment" -->
 - Compiling software is sloooowww <!-- .element: class="fragment" -->
@@ -387,30 +403,84 @@ Containers
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-### Building the "best" containers, workflows, or pipelines takes TIME & EXPERIENCE
+### Building containers, workflows, or pipelines takes TIME & EXPERIENCE
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
-
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# The FAIR Data Principles
+## The FAIR Data Principles
 
----?color=linear-gradient(80deg, gray 10%, black)
+@snap[north-west span-50]
+Findable
+@snapend
 
-# The Research Object
+@snap[north-east span-50]
+Accessible
+@snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
+@snap[south-west span-50]
+Interoperable
+@snapend
 
-# Free and Open Source Software
+@snap[south-east span-50]
+Reusable
+@snapend
+
+@snap[south span-100 text-04]
+source: https://www.nature.com/articles/sdata201618
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 # Version Control
 
+@fab[github fa-4x]
+
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Containers
+---?image=https://media.giphy.com/media/ncsEqTn98T1GHVq62k/giphy.gif
+<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## Google Earth Engine
+
+<img src="https://cdn-images-1.medium.com/max/1200/1*Zj6tKtvMXGNwnaspBn84lw.png" width="800">
+
+https://code.earthengine.google.com/
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-50]
+## Planet Labs
+@snapend
+
+@snap[west span-50]
+<img src="https://cdn-images-1.medium.com/max/1200/1*RZ3Qtg8qFI486zxQzO_72w.png" width="400">
+@snapend
+
+@snap[east span-50]
+<img src="https://www.planet.com/assets/images/approach/dove.png" width="400">
+@snapend
+
+@snap[south span-50]
+https://www.planet.com/
+@snapend
+
+---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
+
+## sUAS are AWESOME!
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+<img src="/assets/imagery/nifa.jpeg" height="700">
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## sUAS Use Case: Camp Fire 2018
+
+https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb3960a48c096ed910c640a30b3
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -424,6 +494,18 @@ NWCG Standards for Fire Unmanned Aircraft Systems Operations
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+## Cell Phones & GPS
+
+- Communication
+- Weather visualization
+- Real time fire progression maps
+- Location data
+- Crew Movements
+
+- inReach
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
 @snap[north-west span-33 text-center]
 sUAS for ignitions
 @snapend
@@ -434,68 +516,42 @@ https://www.c4isrnet.com/unmanned/2019/09/05/what-can-the-military-learn-from-fo
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
----?image=https://media.giphy.com/media/ncsEqTn98T1GHVq62k/giphy.gif
-<span style="font-size: 150%; color:#F9FF33"> Act III: Earth Observation Systems </span>
+## Phenology Cameras
 
----?image=assets/imagery/hdr_low.png
-
----?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
-
-## sUAS are AWESOME!
+https://phenocam.sr.unh.edu/webcam/
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-## Fire uses of sUAS
+@snap[midpoint span-100] 
+<img src="https://edac.unm.edu/wp-content/uploads/2008/06/aerial1.png" height="400">
+@snapend
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US-NationalWildfireCoordinatingGroup-Logo.svg/1200px-US-NationalWildfireCoordinatingGroup-Logo.svg.png
+@snap[north span-100]
+### Data are valuable
+@snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-## ArcGIS Pro, Survey 123
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Open Source GIS vs ESRI 
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Cell Phones & GPS
-
-- communication
-- Weather visualization
-- Real time fire progression maps
-- Location data
-
-- inReach
+@snap[south span-100 font-montserrat text-10]
+Example: [1935-1937 USGS Aerial Photography](
+https://www.usgs.gov/centers/eros/science/usgs-eros-archive-aerial-photography-aerial-photo-mosaics?qt-science_center_objects=0#qt-science_center_objects) are still in use today
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-## 
+## Act 4: Reproducible research
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Act 3: After a Fire
+@snap[north span-100]
+### Computational Notebooks
+@snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
+@snap[midpoint span-75]
+<img src="https://raw.githubusercontent.com/mar-su/taming-of-188-million-wildfires/master/figures/evolution_fire-size-over-1500.gif" width="900">
+@snapend
 
-## sUAS Use Case: Camp Fire 2018
-
-https://buttecountygis.maps.arcgis.com/apps/MapSeries/index.html?appid=af7e5bb3960a48c096ed910c640a30b3 
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## BAER
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Data are valuable
-
-Example: 1937 Aerial Photography are still in use
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-# Computational Notebooks
-
+@snap[south-west span-100 text-05]
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/mar-su/taming-of-188-million-wildfires/blob/master/Taming%20Of%201.88%20Million%20Wildfires.ipynb) source: https://github.com/mar-su/taming-of-188-million-wildfires
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -509,9 +565,10 @@ Example: 1937 Aerial Photography are still in use
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+@snap[east span-50]
 https://docs.descarteslabs.com/guides/raster.html?highlight=wildfire
-
 https://viewer.descarteslabs.com/
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -519,9 +576,10 @@ https://viewer.descarteslabs.com/
 ### @fa[twitter] Descartes Labs twitter bot
 @snapend
 
+@snap[east span-50]
 https://medium.com/descarteslabs-team/wildfiresignal-tracking-system-now-live-on-twitter-ad308d032fee
-
 https://storage.googleapis.com/dl-fires/media/nnm/nnm.html
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -530,6 +588,7 @@ https://storage.googleapis.com/dl-fires/media/nnm/nnm.html
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 Climate Engine 
+
 https://clim-engine.appspot.com/climateEngine
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -538,15 +597,26 @@ https://earth.nullschool.net/
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-### sUAS SfM
+<iframe width="100%" height="800px" src="https://www.arcgis.com/apps/MapJournal/index.html?appid=a8409705e469419aa687510ec0630fed" frameborder="0" scrolling="no"></iframe>
 
----?color=linear-gradient(80deg, gray 10%, black)
 
-### lidar
+---?color=linear-gradient(80deg, gray 10%, white)
 
----?color=linear-gradient(80deg, gray 10%, black)
+@snap[north span-100]
+### lidar data processing
+@snapend
 
-FUSION or lidR
+@snap[west span-33]
+<img src="http://forsys.cfr.washington.edu/fusion/FUSION_logo.JPG" height="200">
+@snapend
+
+@snap[midpoint span-33]
+<img src="https://pdal.io/_images/pdal_logo.png" width="250">
+@snapend
+
+@snap[east span-33]
+<img src="https://raw.githubusercontent.com/Jean-Romain/lidR/master/man/figures/logo200x231.png" height="250">
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -558,19 +628,17 @@ FUSION or lidR
   @tweet[https://twitter.com/bi0m3trics/status/1215312498439553024]
 @snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-PDAL Entwine
+---?image=https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/FY19_Partnerships_territories_10012019_0.jpg
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-3DEP
+@snap[north span-100]
+3D Elevation Program
+@snapend
 
-https://usgs.entwine.io/
+https://www.usgs.gov/core-science-systems/ngp/3dep
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-CloudCompare
+3DEP data are on AWS: https://usgs.entwine.io/
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -589,14 +657,38 @@ https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# After Action Review
+@snap[east span-50]
+<img src="/assets/imagery/baylis_1.jpg" width="500">
+@snapend
 
+@snap[west span-50]
+<img src="/assets/imagery/baylis_2.jpg" width="500">
+@snapend
+
+@snap[south span-100 text-center text-03]
+https://www.patrickbaylis.com/pdf/BaylisBoomhower.pdf
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+@snap[north span-100]
+### After Action Review
+@snapend
+
+@snap[west span-50]
+<img src="https://media.giphy.com/media/fQxeN2SktJJYx4VSCv/giphy.gif" width="500">
+@snapend
+
+@snap[south span-100 text-montserrat text-06]
+@ul
 What was the plan
-
 What did I talk about?
-
 What did you learn?
-
 What could I do better next time?
+@ulend
+@snapend
+
+@snap[east span-50 fragment]
+Only Yoda can prevent forest fires
+@snapend
 
 ---
